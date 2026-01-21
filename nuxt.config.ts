@@ -1,5 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  app: {
+    // baseURL: '/',
+    // baseURL: '/knots-gh/',
+    // baseURL: '/knots-web/',
+    baseURL: '/doctrine/',
+    // buildAssetsDir: '/build/'
+  },
   modules: [
     '@nuxt/eslint',
     '@nuxt/image',
