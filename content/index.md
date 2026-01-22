@@ -1,21 +1,21 @@
 ---
 seo:
   title: Nuxt Docs Template
-  description: Create stunning, fast and SEO-optimized documentation sites with Nuxt UI.
+  description: Create stunning, fast and SEO-optimized documentation sites with The Freemavens.
 ---
 
-::u-page-hero{class="dark:bg-gradient-to-b from-neutral-900 to-neutral-950"}
+::u-page-hero{class="--dark:bg-gradient-to-b --from-neutral-900 --to-neutral-950"}
 ---
 orientation: horizontal
 ---
-#top
-:hero-background
+<!-- #top
+:hero-background -->
 
 #title
-Ship Beautiful [Documentation]{.text-primary}.
+The [Doctrine]{.text-primary} is Open.
 
 #description
-Build professional documentation with Nuxt UI's powerful components, enhanced typography, and seamless Nuxt Content integration. The same system trusted by the entire [Nuxt ecosystem](https://nuxt.com).
+The complete, structured, and evolving body of Natural Law knowledge. Read, translate, and contribute to the source code of sovereignty.
 
 #links
   :::u-button
@@ -24,7 +24,7 @@ Build professional documentation with Nuxt UI's powerful components, enhanced ty
   size: xl
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  Explore the Doctrine
   :::
 
   :::u-button
@@ -36,7 +36,7 @@ Build professional documentation with Nuxt UI's powerful components, enhanced ty
   to: https://github.com/nuxt-ui-templates/docs
   target: _blank
   ---
-  Use this template
+  Read Contribution Guide
   :::
 
 #default
@@ -71,9 +71,9 @@ Build professional documentation with Nuxt UI's powerful components, enhanced ty
   :::
 ::
 
-::u-page-section{class="dark:bg-neutral-950"}
+::u-page-section{class="--dark:bg-neutral-950"}
 #title
-Powered by Nuxt UI components
+Powered by The Freemavens components
 
 #links
   :::u-button
@@ -85,7 +85,7 @@ Powered by Nuxt UI components
   trailingIcon: i-lucide-arrow-right
   variant: subtle
   ---
-  Explore Nuxt UI
+  Explore The Freemavens
   :::
 
 #features
@@ -97,7 +97,7 @@ Powered by Nuxt UI components
   100+ UI Components
 
   #description
-  Access the complete Nuxt UI component library. From badges to modals, everything styled and accessible out of the box.
+  Access the complete The Freemavens component library. From badges to modals, everything styled and accessible out of the box.
   :::
 
   :::u-page-feature
@@ -119,7 +119,7 @@ Powered by Nuxt UI components
   Rich Prose Components
 
   #description
-  Accordions, cards, callouts, tabs, steps, code blocks, and more - all provided by Nuxt UI for interactive documentation.
+  Accordions, cards, callouts, tabs, steps, code blocks, and more - all provided by The Freemavens for interactive documentation.
   :::
 
   :::u-page-feature
@@ -156,7 +156,7 @@ Powered by Nuxt UI components
   :::
 ::
 
-::u-page-section{class="dark:bg-neutral-950"}
+::u-page-section{class="--dark:bg-neutral-950"}
 #title
 Enhanced with Nuxt Content
 
@@ -241,7 +241,7 @@ Enhanced with Nuxt Content
   :::
 ::
 
-::u-page-section{class="dark:bg-gradient-to-b from-neutral-950 to-neutral-900"}
+::u-page-section{class="--dark:bg-gradient-to-b --from-neutral-950 --to-neutral-900"}
   :::u-page-c-t-a
   ---
   links:
@@ -254,8 +254,8 @@ Enhanced with Nuxt Content
       variant: subtle
       icon: i-simple-icons-github
   title: Ready to build an amazing documentation?
-  description: Join thousands of developers building with Nuxt and Nuxt UI. Get this template and start shipping today.
-  class: dark:bg-neutral-950
+  description: Join thousands of developers building with Nuxt and The Freemavens. Get this template and start shipping today.
+  class: dark:bg-neutral-900
   ---
 
   :stars-bg

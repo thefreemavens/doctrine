@@ -7,7 +7,7 @@
   --container-8xl: 90rem;
   --font-sans: 'Public Sans', sans-serif;
 
-  /* --color-green-50: #EFFDF5;
+  --color-green-50: #EFFDF5;
   --color-green-100: #D9FBE8;
   --color-green-200: #B3F5D1;
   --color-green-300: #75EDAE;
@@ -17,7 +17,7 @@
   --color-green-700: #007F45;
   --color-green-800: #016538;
   --color-green-900: #0A5331;
-  --color-green-950: #052E16; */
+  --color-green-950: #052E16;
 
   --color-brand-50:  #fbfaff;
   --color-brand-100: #f6f4ff;
@@ -44,8 +44,8 @@
   --color-earth-900: #0e0d11;
   --color-earth-950: #070709;
 
-  --font-display: 'Funnel Display', sans-serif;
-  /* --font-display: 'Geist', sans-serif; */
+  /* --font-display: 'Funnel Display', sans-serif; */
+  --font-display: 'Geist', sans-serif;
   /* --font-display: 'Funnel Display', sans-serif; */
   --font-sans: 'Geist', sans-serif;
   --font-mono: 'Google Sans Code', monospace;

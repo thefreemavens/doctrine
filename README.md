@@ -1,8 +1,8 @@
 # Nuxt Docs Template
 
-[![Nuxt UI](https://img.shields.io/badge/Made%20with-Nuxt%20UI-00DC82?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
+[![The Freemavens](https://img.shields.io/badge/Made%20with-Nuxt%20UI-00DC82?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
 
-Use this template to build your own documentation with [Nuxt UI](https://ui.nuxt.com) quickly.
+Use this template to build your own documentation with [The Freemavens](https://ui.nuxt.com) quickly.
 
 - [Live demo](https://docs-template.nuxt.dev/)
 - [Documentation](https://ui.nuxt.com/docs/getting-started/installation)

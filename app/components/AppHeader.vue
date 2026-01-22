@@ -16,7 +16,7 @@ const { header } = useAppConfig()
       :collapsed="false"
       class="w-full"
     />
-
+    <!--
     <template
       v-if="header?.logo?.dark || header?.logo?.light || header?.title"
       #title
@@ -32,17 +32,24 @@ const { header } = useAppConfig()
       <span v-else-if="header?.title">
         {{ header.title }}
       </span>
-    </template>
+      v-else
+    </template> -->
 
     <template
-      v-else
       #left
     >
-      <NuxtLink :to="header?.to || '/'">
-        <AppLogo class="w-auto h-6 shrink-0" />
+      <NuxtLink
+        to="/"
+        aria-label="The Free Mavens | Home"
+        class="flex justify-center items-center drop-shadow-md/20 dark:drop-shadow-none size-10"
+      >
+        <UIcon
+          name="i-local-tfm"
+          class="flex size-full"
+        />
       </NuxtLink>
 
-      <TemplateMenu />
+      <!-- <TemplateMenu /> -->
     </template>
 
     <template #right>

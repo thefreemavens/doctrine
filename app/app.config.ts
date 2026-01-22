@@ -10,7 +10,7 @@ export default defineAppConfig({
   },
   ui: {
     colors: {
-      primary: 'brand',
+      primary: 'indigo',
       neutral: 'earth'
     },
     footer: {
@@ -67,7 +67,7 @@ export default defineAppConfig({
     }]
   },
   footer: {
-    credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
+    credits: `Built with The Freemavens • © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-discord',
@@ -83,7 +83,7 @@ export default defineAppConfig({
       'icon': 'i-simple-icons-github',
       'to': 'https://github.com/nuxt/ui',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'The Freemavens on GitHub'
     }]
   },
   toc: {
@@ -98,7 +98,7 @@ export default defineAppConfig({
         target: '_blank'
       }, {
         icon: 'i-lucide-book-open',
-        label: 'Nuxt UI docs',
+        label: 'The Freemavens docs',
         to: 'https://ui.nuxt.com/docs/getting-started/installation/nuxt',
         target: '_blank'
       }]
