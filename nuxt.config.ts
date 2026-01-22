@@ -5,15 +5,7 @@ export default defineNuxtConfig({
     // baseURL: '/doctrine/',
     // buildAssetsDir: '/build/'
   },
-  modules: [
-    '@nuxt/eslint',
-    '@nuxt/image',
-    '@nuxt/ui',
-    '@nuxt/content',
-    'nuxt-og-image',
-    'nuxt-llms',
-    '@nuxtjs/mcp-toolkit'
-  ],
+  modules: ['@nuxt/eslint', '@nuxt/image', '@nuxt/ui', '@nuxt/content', 'nuxt-og-image', 'nuxt-llms', '@nuxtjs/mcp-toolkit', '@nuxt/scripts'],
 
   devtools: {
     enabled: true
