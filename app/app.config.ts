@@ -90,7 +90,7 @@ export default defineAppConfig({
     title: 'Table of Contents',
     bottom: {
       title: 'Community',
-      edit: 'https://github.com/nuxt-ui-templates/docs/edit/main/content',
+      edit: 'https://github.com/thefreemavens/doctrine/edit/main/content',
       links: [{
         icon: 'i-lucide-star',
         label: 'Star on GitHub',
@@ -98,8 +98,8 @@ export default defineAppConfig({
         target: '_blank'
       }, {
         icon: 'i-lucide-book-open',
-        label: 'The Freemavens docs',
-        to: 'https://ui.nuxt.com/docs/getting-started/installation/nuxt',
+        label: 'Telegram Group',
+        to: 'https://t.me/thefreemavens',
         target: '_blank'
       }]
     }
