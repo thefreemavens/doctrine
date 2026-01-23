@@ -22,7 +22,7 @@ useSeoMeta({
 const links = ref<ButtonProps[]>([
   {
     label: 'Read the Doctrine',
-    to: '/docs/getting-started',
+    to: '/getting-started',
     icon: 'i-lucide-arrow-right'
   },
   {
