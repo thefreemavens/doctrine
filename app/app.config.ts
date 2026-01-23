@@ -5,12 +5,13 @@ export default defineAppConfig({
   url: {
     // discord: 'https://discord.gg/3Ccegp9YrU',
     github: 'https://github.com/thefreemavens',
+    repo: 'https://github.com/thefreemavens/doctrine',
     telegram: 'https://t.me/thefreemavens',
     x: 'https://x.com/thefreemavens',
   },
   ui: {
     colors: {
-      primary: 'indigo',
+      primary: 'brand',
       neutral: 'earth'
     },
     footer: {
@@ -27,7 +28,7 @@ export default defineAppConfig({
     pageCard: {
       slots: {
         container: 'grid',
-        leadingIcon: 'size-8'
+        leadingIcon: 'size-6'
       }
     },
     pageHero: {
@@ -37,17 +38,24 @@ export default defineAppConfig({
     },
     pageFeature: {
       slots: {
-        leadingIcon: 'size-10'
+        leadingIcon: 'size-6 gap-4'
       },
     },
     pageSection: {
       slots: {
         title: 'font-display',
-      }
+      },
+      // variants: {
+      //   orientation: {
+      //     horizontal: {
+      //       features: 'gap-1'
+      //     }
+      //   }
+      // }
     }
   },
   seo: {
-    siteName: 'Nuxt Docs Template'
+    siteName: 'The Freemavens Open Doctrine'
   },
   header: {
     title: '',
@@ -61,13 +69,13 @@ export default defineAppConfig({
     colorMode: true,
     links: [{
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt-ui-templates/docs',
+      'to': 'https://github.com/thefreemavens/doctrine',
       'target': '_blank',
       'aria-label': 'GitHub'
     }]
   },
   footer: {
-    credits: `Built with The Freemavens • © ${new Date().getFullYear()}`,
+    credits: `The Freemavens © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-discord',

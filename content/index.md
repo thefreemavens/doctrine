@@ -4,18 +4,18 @@ seo:
   description: Create stunning, fast and SEO-optimized documentation sites with The Freemavens.
 ---
 
-::u-page-hero{class="--dark:bg-gradient-to-b --from-neutral-900 --to-neutral-950"}
+::u-page-hero{class="--dark:bg-gradient-to-b --from-neutral-900 --to-neutral-950 relative"}
 ---
 orientation: horizontal
 ---
-<!-- #top
-:hero-background -->
+#top
+:hero-background
 
 #title
 The [Doctrine]{.text-primary} is Open.
 
 #description
-The complete, structured, and evolving body of Natural Law knowledge. Read, translate, and contribute to the source code of sovereignty.
+The complete, structured, and immutable body of Natural Law knowledge. Read, translate, and contribute to the source code of sovereignty.
 
 #links
   :::u-button
@@ -24,7 +24,7 @@ The complete, structured, and evolving body of Natural Law knowledge. Read, tran
   size: xl
   trailing-icon: i-lucide-arrow-right
   ---
-  Explore the Doctrine
+  Read the Doctrine
   :::
 
   :::u-button
@@ -33,14 +33,14 @@ The complete, structured, and evolving body of Natural Law knowledge. Read, tran
   color: neutral
   variant: outline
   size: xl
-  to: https://github.com/nuxt-ui-templates/docs
-  target: _blank
+  to: /getting-started/usage
   ---
-  Read Contribution Guide
+  View Contribution Guide
   :::
 
 #default
-  :::prose-pre
+  :::app-sol{class="size-64 mx-auto"}
+  <!-- :::prose-pre
   ---
   code: |
     export default defineNuxtConfig({
@@ -53,191 +53,225 @@ The complete, structured, and evolving body of Natural Law knowledge. Read, tran
 
       css: ['~/assets/css/main.css']
     })
-  filename: nuxt.config.ts
+  filename: principles-of-natural-law.md
   ---
 
-  ```ts [nuxt.config.ts]
-  export default defineNuxtConfig({
-    modules: [
-      '@nuxt/ui',
-      '@nuxt/content',
-      'nuxt-og-image',
-      'nuxt-llms'
-    ],
-
-    css: ['~/assets/css/main.css']
-  })
+  ```yml [nuxt.config.ts]
+    ---
+    title: Principles of Natural Law
+    description: Natural Law is expressed through seven basic 
+    underlying principles, and the 8th Lost Principle which binds 
+    the other seven together. These principles constitute as the 
+    Master Key through which universal wisdom is unveiled.
+    ---
   ```
+  ```md
+
+    ## The Principles
+
+    ### Etymology
+    The word **_Principle_** is derived from the Latin noun 
+    **_Principia_** which means "First, Foremost, Leading, or 
+    Most necessary". In other words, that which is most important.
+  ```
+  ::: -->
+::
+
+::u-page-section{class="--dark:bg-neutral-950"}
+#title
+Learn Natural Law
+
+#description
+Begin your journey with the foundational knowledge. The Doctrine is presented in a clear, structured format to facilitate deep understanding, from first principles to advanced synthesis.
+
+#links
+  :::u-button
+  ---
+  color: primary
+  size: lg
+  to: /getting-started
+  trailingIcon: i-lucide-arrow-right
+  variant: solid
+  ---
+  Explore the Open Doctrine
+  :::
+
+#features
+  :::u-page-card
+  ---
+  variant: subtle
+  spotlight: true
+  icon: i-lucide-book-open-text
+  ---
+  #title
+  The Core Transcripts
+
+  #description
+  The complete, verbatim 5-hour seminar, segmented and annotated for study.
+  :::
+
+  :::u-page-card
+  ---
+  variant: subtle
+  spotlight: true
+  icon: i-lucide-compass
+  ---
+  #title
+  The Principles Decrypted
+
+  #description
+  A clear breakdown of the 7 Hermetic Laws and the generative 8th (Care), with definitions and examples.
+  :::
+
+  :::u-page-card
+  ---
+  variant: subtle
+  spotlight: true
+  icon: i-lucide-scale
+  ---
+  #title
+  The Science of Morality
+
+  #description
+  Explore the objective framework of Right Action, Wrong Action, and the "No Harm" rule derived from Natural Law.
+  :::
+
+  :::u-page-card
+  ---
+  variant: subtle
+  spotlight: true
+  icon: i-lucide-brain
+  ---
+  #title
+  Sovereignty & The Great Work
+
+  #description
+  Learn the path of the Internal Monarchy and your role in the collective elevation of consciousness.
+  :::
+
+  :::u-page-card
+  ---
+  variant: subtle
+  spotlight: true
+  icon: i-lucide-link
+  ---
+  #title
+  Cross-Referenced Glossary
+
+  #description
+  Every key term (e.g., Force vs. Violence, Statism, Spiritual Currency) is defined and linked across all texts.
+  :::
+
+  :::u-page-card
+  ---
+  variant: subtle
+  spotlight: true
+  icon: i-lucide-git-compare-arrows
+  ---
+  #title
+  Curated Reading Paths
+
+  #description
+  Follow guided sequences: "Start Here for First Principles," "Path to The Great Work," "Deep Dive on Cause & Effect."
   :::
 ::
 
 ::u-page-section{class="--dark:bg-neutral-950"}
 #title
-Powered by The Freemavens components
+Contribute & Build
+
+#description
+This is a living, open-source project. Add your skills to help translate, clarify, and build tools that make this knowledge accessible to all.
 
 #links
   :::u-button
   ---
-  color: neutral
+  color: primary
   size: lg
-  target: _blank
-  to: https://ui.nuxt.com/docs/getting-started/installation/nuxt
+  to: /getting-started
   trailingIcon: i-lucide-arrow-right
-  variant: subtle
+  variant: solid
   ---
-  Explore The Freemavens
+  Learn How To Contribute
   :::
 
 #features
-  :::u-page-feature
+  :::u-page-card
   ---
-  icon: i-lucide-palette
-  ---
-  #title
-  100+ UI Components
-
-  #description
-  Access the complete The Freemavens component library. From badges to modals, everything styled and accessible out of the box.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-type
-  ---
-  #title
-  Beautiful Typography
-
-  #description
-  Pre-styled prose components with perfect visual harmony. No need for @tailwindcss/typography - get precise control over every element.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-layers
-  ---
-  #title
-  Rich Prose Components
-
-  #description
-  Accordions, cards, callouts, tabs, steps, code blocks, and more - all provided by The Freemavens for interactive documentation.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-search
-  ---
-  #title
-  Built-in Search
-
-  #description
-  Full-text search with ContentSearch component. No need for Algolia - instant, relevant results with keyboard shortcuts (⌘K).
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-navigation
-  ---
-  #title
-  Smart Navigation
-
-  #description
-  Auto-generated navigation with ContentNavigation and ContentToc components. Sticky table of contents and prev/next links.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-moon
-  ---
-  #title
-  Dark Mode Ready
-
-  #description
-  Automatic theme switching with smooth transitions. Respects system preferences and remembers user choice.
-  :::
-::
-
-::u-page-section{class="--dark:bg-neutral-950"}
-#title
-Enhanced with Nuxt Content
-
-#links
-  :::u-button
-  ---
-  color: neutral
-  size: lg
-  target: _blank
-  to: https://content.nuxt.com/docs/getting-started/installation
-  trailingIcon: i-lucide-arrow-right
   variant: subtle
-  ---
-  Explore Nuxt Content
-  :::
-
-#features
-  :::u-page-feature
-  ---
-  icon: i-simple-icons-markdown
+  spotlight: true
+  icon: i-lucide-globe
   ---
   #title
-  MDC Enhanced Markdown
+  Translate the Doctrine
 
   #description
-  Write in Markdown while embedding Vue components. Seamlessly integrate interactive elements in your content.
+  Join a translation team to make the texts available in your native language. All translations are peer-reviewed.
   :::
 
-  :::u-page-feature
+  :::u-page-card
   ---
-  icon: i-lucide-file-text
+  variant: subtle
+  spotlight: true
+  icon: i-lucide-pencil-line
   ---
   #title
-  File-based Routing
+  Propose Clarifications
 
   #description
-  Organize content in folders and files. Your documentation structure automatically becomes your navigation.
+  Submit pull requests to improve the clarity, flow, or accuracy of existing explanations.
   :::
 
-  :::u-page-feature
+  :::u-page-card
   ---
+  variant: subtle
+  spotlight: true
   icon: i-lucide-code
   ---
   #title
-  Syntax Highlighting
+  Build Interactive Tools
 
   #description
-  Beautiful code blocks with language detection, line numbers, and copy buttons. Support for 100+ languages.
+  Develop calculators, diagrams, or interactive exercises that help explain the principles (e.g., a "Spiritual Currency Audit" tool).
   :::
 
-  :::u-page-feature
+  :::u-page-card
   ---
-  icon: i-lucide-database
+  variant: subtle
+  spotlight: true
+  icon: i-lucide-message-circle-more
   ---
   #title
-  Content Database
+  Annotate & Discuss
 
   #description
-  Query your content with a MongoDB-like API. Filter, sort, and search through your documentation programmatically.
+  Add contextual notes, historical references, or contemporary examples to specific passages via the discussion forum.
   :::
 
-  :::u-page-feature
+  :::u-page-card
   ---
-  icon: i-lucide-file-code
+  variant: subtle
+  spotlight: true
+  icon: i-lucide-git-fork
   ---
   #title
-  Frontmatter Support
+  Create Derivative Works
 
   #description
-  Add metadata to your content files. Define SEO tags, navigation properties, and custom fields.
+  Write summarized guides, create video scripts, or design educational resources based on the Doctrine (licensed under the same open terms).
   :::
 
-  :::u-page-feature
+  :::u-page-card
   ---
-  icon: i-lucide-git-branch
+  variant: subtle
+  spotlight: true
+  icon: i-lucide-search
   ---
   #title
-  Version Control
+  Review Contributions
 
   #description
-  Content lives in your repository. Branch, review, and deploy documentation alongside your code.
+  Help maintain quality by reviewing and verifying the accuracy of translations, code, and edits submitted by others.
   :::
 ::
 
@@ -246,18 +280,17 @@ Enhanced with Nuxt Content
   ---
   links:
     - label: Start building
-      to: '/getting-started'
+      to: '/getting-started/usage'
       trailingIcon: i-lucide-arrow-right
     - label: View on GitHub
-      to: 'https://github.com/nuxt-ui-templates/docs'
-      target: _blank
+      to: 'https://github.com/thefreemavens/doctrine'
       variant: subtle
       icon: i-simple-icons-github
-  title: Ready to build an amazing documentation?
-  description: Join thousands of developers building with Nuxt and The Freemavens. Get this template and start shipping today.
-  class: dark:bg-neutral-900
+  title: Join the Guided Path
+  description: The Maven Code is the Guild's structured curriculum that turns Doctrine into actionable understanding. Follow the initiatory path of Entered, Fellow, and Master Maven.
+  class: bg-neutral-50 dark:bg-neutral-950/70
+  spotlight: true
   ---
-
   :stars-bg
   :::
 ::

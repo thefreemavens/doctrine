@@ -56,14 +56,14 @@ const starLayers = computed(() => [
 </script>
 
 <template>
-  <div class="absolute pointer-events-none z-[-1] inset-y-0 inset-x-5 sm:inset-x-7 lg:inset-x-9 overflow-hidden">
+  <div class="absolute pointer-events-none z-[-1] inset-y-0 inset-x-5 sm:inset-x-7 lg:inset-x-9 overflow-hidden -mt-16">
     <svg
       class="absolute inset-0 pointer-events-none"
       viewBox="0 0 1017 181"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g opacity="0.5">
+      <g opacity="0.33">
         <mask
           id="path-1-inside-1_846_160841"
           fill="white"
@@ -73,7 +73,7 @@ const starLayers = computed(() => [
         <path
           d="M0 0H1017V181H0V0Z"
           fill="url(#paint0_radial_846_160841)"
-          fill-opacity="0.22"
+          fill-opacity="0.33"
         />
       </g>
       <defs>

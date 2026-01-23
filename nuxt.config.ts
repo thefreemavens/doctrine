@@ -1,14 +1,11 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  compatibilityDate: '2024-07-11',
+
   app: {
     // baseURL: '/',
     // baseURL: '/doctrine/',
     // buildAssetsDir: '/build/'
-  },
-  modules: ['@nuxt/eslint', '@nuxt/image', '@nuxt/ui', '@nuxt/content', 'nuxt-og-image', 'nuxt-llms', '@nuxtjs/mcp-toolkit', '@nuxt/scripts'],
-
-  devtools: {
-    enabled: true
   },
 
   css: ['~/assets/css/main.css'],
@@ -16,6 +13,13 @@ export default defineNuxtConfig({
   content: {
     build: {
       markdown: {
+        highlight: {
+          theme: {
+            default: 'rose-pine-moon',
+            light: 'slack-ochin',
+            dark: 'rose-pine-moon',
+          }
+        },
         toc: {
           searchDepth: 1
         }
@@ -23,25 +27,13 @@ export default defineNuxtConfig({
     }
   },
 
+  devtools: {
+    enabled: true
+  },
+  
   experimental: {
     asyncContext: true
   },
-
-  compatibilityDate: '2024-07-11',
-
-  nitro: {
-    preset: 'static',
-    serveStatic: true,
-    prerender: {
-      routes: [
-        '/'
-      ],
-      crawlLinks: true,
-      autoSubfolderIndex: false
-    }
-  },
-
-  ssr: true,
 
   eslint: {
     config: {
@@ -51,7 +43,7 @@ export default defineNuxtConfig({
       }
     }
   },
-
+  
   icon: {
     provider: 'iconify',
     customCollections: [{
@@ -59,14 +51,14 @@ export default defineNuxtConfig({
       dir: './app/assets/icons'
     }]
   },
-
+  
   llms: {
     domain: 'https://doctrine.thefreemavens.org/',
     title: 'The Open Doctrine',
     description: 'The canonical, open-source repository of Natural Law knowledge. Read, translate, and contribute to the decrypted principles of sovereignty.',
     full: {
       title: 'The Free Mavens Doctrine - Complete Knowledge Base',
-      description: 'The structured and evolving body of work containing the Hermetic Principles, the Generative Principle of Care, and the objective science of Natural Law. This is the foundational text for the Freemavenry path.'
+      description: 'The structured documentation of **immutable** truth—containing the Hermetic Principles, the Generative Principle of Care, and the objective science of Natural Law. This is the foundational text for the Freemavenry path.'
     },
     sections: [
       {
@@ -85,8 +77,34 @@ export default defineNuxtConfig({
       }
     ]
   },
-
+  
   mcp: {
     name: 'Docs template'
-  }
+  },
+  
+  modules: [
+    '@nuxt/eslint',
+    '@nuxt/image',
+    '@nuxt/ui',
+    '@nuxt/content',
+    'nuxt-og-image',
+    'nuxt-llms',
+    '@nuxtjs/mcp-toolkit',
+    '@nuxt/scripts'
+  ],
+
+  nitro: {
+    preset: 'static',
+    serveStatic: true,
+    prerender: {
+      routes: [
+        '/'
+      ],
+      crawlLinks: true,
+      autoSubfolderIndex: false
+    }
+  },
+
+  ssr: true,
+
 })

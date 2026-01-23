@@ -16,7 +16,7 @@ onMounted(() => {
 
 <template>
   <div
-    class="absolute w-full -top-px transition-all text-primary shrink-0"
+    class="absolute w-full -top-px transition-all text-brand-500 shrink-0 h-svh"
     :class="[
       isLoading ? 'animate-pulse' : (appear ? '' : 'opacity-0'),
       appeared ? 'duration-400': 'duration-1000'
@@ -45,7 +45,7 @@ onMounted(() => {
         mask="url(#path-1-inside-1_414_5526)"
       />
       <defs>
-        <linearGradient
+        <!-- <linearGradient
           id="paint0_linear_414_5526"
           x1="720"
           y1="0"
@@ -59,7 +59,7 @@ onMounted(() => {
             stop-color="currentColor"
             stop-opacity="0"
           />
-        </linearGradient>
+        </linearGradient> -->
         <linearGradient
           id="paint1_linear_414_5526"
           x1="0"
@@ -84,5 +84,6 @@ onMounted(() => {
         </linearGradient>
       </defs>
     </svg>
+    <StarsBg />
   </div>
 </template>

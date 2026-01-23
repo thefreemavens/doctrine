@@ -1,0 +1,63 @@
+<template>
+  <div class="size-full">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 624 624"
+      fill="none"
+      class="--animate-pulse"
+    >
+      <g
+        class="animate-[pulse_6s_linear_reverse_infinite] origin-center"
+      >
+        <circle
+          cx="312"
+          cy="312"
+          r="300"
+          stroke="currentColor"
+        />
+        <circle
+          cx="182"
+          cy="237"
+          r="150"
+          stroke="currentColor"
+        />
+        <circle
+          cx="182"
+          cy="387"
+          r="150"
+          stroke="currentColor"
+        />
+        <circle
+          cx="312"
+          cy="462"
+          r="150"
+          stroke="currentColor"
+        />
+        <circle
+          cx="442"
+          cy="387"
+          r="150"
+          stroke="currentColor"
+        />
+        <circle
+          cx="442"
+          cy="237"
+          r="150"
+          stroke="currentColor"
+        />
+        <circle
+          cx="312"
+          cy="162"
+          r="150"
+          stroke="currentColor"
+        />
+        <circle
+          cx="312"
+          cy="312"
+          r="150"
+          stroke="currentColor"
+        />
+      </g>
+    </svg>
+  </div>
+</template>

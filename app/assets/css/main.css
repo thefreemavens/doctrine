@@ -5,9 +5,17 @@
 
 @theme static {
   --container-8xl: 90rem;
-  --font-sans: 'Public Sans', sans-serif;
+  /* --container-8xl: 96rem; */
 
-  --color-green-50: #EFFDF5;
+  --font-display: 'Geist', sans-serif;
+  /* --font-display: 'Funnel Display', sans-serif; */
+  --font-sans: 'Geist', sans-serif;
+  /* --font-sans: 'Public Sans', sans-serif; */
+  /* --font-mono: 'Google Sans Code', monospace;  */
+  --font-mono: 'JetBrains Mono', monospace; 
+  
+  
+  /* --color-green-50: #EFFDF5;
   --color-green-100: #D9FBE8;
   --color-green-200: #B3F5D1;
   --color-green-300: #75EDAE;
@@ -17,7 +25,7 @@
   --color-green-700: #007F45;
   --color-green-800: #016538;
   --color-green-900: #0A5331;
-  --color-green-950: #052E16;
+  --color-green-950: #052E16; */
 
   --color-brand-50:  #fbfaff;
   --color-brand-100: #f6f4ff;
@@ -43,20 +51,10 @@
   --color-earth-800: #17161d;
   --color-earth-900: #0e0d11;
   --color-earth-950: #070709;
-
-  /* --font-display: 'Funnel Display', sans-serif; */
-  --font-display: 'Geist', sans-serif;
-  /* --font-display: 'Funnel Display', sans-serif; */
-  --font-sans: 'Geist', sans-serif;
-  --font-mono: 'Google Sans Code', monospace;
-
-  /* --container-8xl: 96rem; */
-
-
-
 }
 
 :root {
+  /* --ui-header-height: --spacing(16); */
   --ui-container: var(--container-8xl);
 
   --ui-primary: var(--ui-color-primary-600);
@@ -91,7 +89,7 @@
   /* --ui-warning: var(--ui-color-warning-500); */
   /* --ui-error: var(--ui-color-error-500); */
 
-  --ui-bg: var(--ui-color-neutral-800);
+  --ui-bg: var(--ui-color-neutral-900);
   --ui-bg-muted: var(--ui-color-neutral-950);
   /* --ui-bg-elevated: var(--ui-color-neutral-800); */
   /* --ui-bg-accented: var(--ui-color-neutral-700); */
