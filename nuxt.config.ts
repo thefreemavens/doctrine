@@ -58,7 +58,7 @@ export default defineNuxtConfig({
     description: 'The canonical, open-source repository of Natural Law knowledge. Read, translate, and contribute to the decrypted principles of sovereignty.',
     full: {
       title: 'The Freemavens Doctrine - Complete Knowledge Base',
-      description: 'The structured documentation of **immutable** truth—containing the Hermetic Principles, the Generative Principle of Care, and the objective science of Natural Law. This is the foundational text for the Freemavenry path.'
+      description: 'The structured documentation of **immutable** truth - containing the Hermetic Principles, the Generative Principle of Care, and the objective science of Natural Law. This is the foundational text for the Freemavenry path.'
     },
     sections: [
       {
