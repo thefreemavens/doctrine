@@ -1,13 +1,14 @@
 export default defineAppConfig({
-  title: 'The Free Mavens',
+  title: 'The Freemavens',
   vweb: '0.1.1',
   vapp: '29.2',
   url: {
     // discord: 'https://discord.gg/3Ccegp9YrU',
     github: 'https://github.com/thefreemavens',
     repo: 'https://github.com/thefreemavens/doctrine',
+    discord: 'https://discord.gg/pThMw5mjWw',
     telegram: 'https://t.me/thefreemavens',
-    x: 'https://x.com/thefreemavens',
+    x: 'https://x.com/thefreemavens'
   },
   ui: {
     colors: {
@@ -33,7 +34,16 @@ export default defineAppConfig({
     },
     pageHero: {
       slots: {
-        header: 'font-display'
+        header: 'font-display',
+        // root: 'relative isolate',
+        // container: 'flex flex-col lg:grid py-24 sm:py-32 lg:py-40 gap-16 sm:gap-y-24',
+        wrapper: 'text-center lg:text-left',
+        headline: 'mb-4',
+        title: 'text-5xl sm:text-7xl text-pretty tracking-tight font-bold text-highlighted',
+        description: 'text-lg sm:text-xl/8 text-muted',
+        body: 'mt-10',
+        footer: 'mt-10',
+        links: 'flex flex-wrap gap-x-6 gap-y-3 justify-center lg:justify-start'
       }
     },
     pageFeature: {
@@ -79,7 +89,7 @@ export default defineAppConfig({
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-discord',
-      'to': 'https://go.nuxt.com/discord',
+      'to': 'https://discord.gg/pThMw5mjWw',
       'target': '_blank',
       'aria-label': 'Nuxt on Discord'
     }, {

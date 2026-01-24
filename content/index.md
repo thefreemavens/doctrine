@@ -287,7 +287,7 @@ This is a living, open-source project. Add your skills to help translate, clarif
       variant: subtle
       icon: i-simple-icons-github
   title: Join the Guided Path
-  description: The Maven Code is the Guild's structured curriculum that turns Doctrine into actionable understanding. Follow the initiatory path of Entered, Fellow, and Master Maven.
+  description: The Maven Code is the Collective's structured curriculum that turns Doctrine into actionable understanding. Follow the initiatory path of Entered, Fellow, and Master Maven.
   class: bg-neutral-50 dark:bg-neutral-950/70
   spotlight: true
   ---

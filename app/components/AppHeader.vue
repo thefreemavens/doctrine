@@ -40,7 +40,7 @@ const { header } = useAppConfig()
     >
       <NuxtLink
         to="/"
-        aria-label="The Free Mavens | Home"
+        aria-label="The Freemavens | Home"
         class="flex justify-center items-center drop-shadow-md/20 dark:drop-shadow-none size-10"
       >
         <UIcon
@@ -58,7 +58,9 @@ const { header } = useAppConfig()
         class="lg:hidden"
       />
 
-      <UColorModeButton v-if="header?.colorMode" />
+      <UColorModeButton
+        v-if="header?.colorMode"
+      />
 
       <template v-if="header?.links">
         <UButton

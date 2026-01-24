@@ -57,7 +57,7 @@ export default defineNuxtConfig({
     title: 'The Open Doctrine',
     description: 'The canonical, open-source repository of Natural Law knowledge. Read, translate, and contribute to the decrypted principles of sovereignty.',
     full: {
-      title: 'The Free Mavens Doctrine - Complete Knowledge Base',
+      title: 'The Freemavens Doctrine - Complete Knowledge Base',
       description: 'The structured documentation of **immutable** truth—containing the Hermetic Principles, the Generative Principle of Care, and the objective science of Natural Law. This is the foundational text for the Freemavenry path.'
     },
     sections: [
@@ -79,7 +79,7 @@ export default defineNuxtConfig({
   },
   
   mcp: {
-    name: 'Docs template'
+    name: 'Doctrine'
   },
   
   modules: [

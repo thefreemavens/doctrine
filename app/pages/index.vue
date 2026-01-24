@@ -23,7 +23,8 @@ const links = ref<ButtonProps[]>([
   {
     label: 'Read the Doctrine',
     to: '/getting-started',
-    icon: 'i-lucide-arrow-right'
+    icon: 'i-lucide-arrow-right',
+    size: 'md'
   },
   {
     label: 'View Contribution Guide',
@@ -78,6 +79,7 @@ const ctaJoin = ref<ButtonProps[]>([
     <UPageHero
       :links="links"
       class="relative"
+      orientation="horizontal"
     >
       <template #title>
         <h1>
@@ -86,7 +88,7 @@ const ctaJoin = ref<ButtonProps[]>([
       </template>
 
       <template #description>
-        <p>The complete, structured, and immutable body of Natural Law knowledge. <span class="block">Read, translate, and contribute to the source code of sovereignty.</span></p>
+        <p>The complete, structured, and immutable body of Natural Law knowledge. Learn, translate, and contribute to the source code of sovereignty.</p>
       </template>
 
       <template #top>
@@ -94,7 +96,7 @@ const ctaJoin = ref<ButtonProps[]>([
       </template>
 
       <UPageCard
-        class="size-64 sm:size-72 md:size-80 lg:size-96 xl:size-112 aspect-square mx-auto rounded-2xl p-8 group"
+        class="size-64 sm:size-72 md:size-80 lg:size-96 xl:size-112 aspect-square mx-auto rounded-2xl p-8 group relative"
         variant="ghost"
         spotlight
       >
@@ -108,7 +110,8 @@ const ctaJoin = ref<ButtonProps[]>([
     <!-- LEARN -->
     <!-- LEARN -->
     <UPageSection
-      title="Learn Natural Law"
+      headline="Learn the"
+      title="Science of Natural Law"
       description="Begin your journey with the foundational knowledge. The Doctrine is presented in a clear, structured format to facilitate deep understanding, from first principles to advanced synthesis."
       :links="ctaLearn"
     >
@@ -143,7 +146,7 @@ const ctaJoin = ref<ButtonProps[]>([
         />
         <UPageCard
           title="Cross-Referenced Glossary"
-          description="Every key term (e.g., Force vs. Violence, Statism, Spiritual Currency) is defined and linked across all texts."
+          description="Every key term (e.g., Natural Law, Truth, Religion, Statism) is defined and linked across all texts."
           variant="subtle"
           spotlight
           icon="i-lucide-link"
@@ -221,8 +224,8 @@ const ctaJoin = ref<ButtonProps[]>([
     <!-- JOIN -->
     <UPageSection>
       <UPageCTA
-        title="Join the Guided Path"
-        description="The Maven Code is the Guild's structured curriculum that turns Doctrine into actionable understanding. Follow the initiatory path of Entered, Fellow, and Master Maven."
+        title="The Guided Path"
+        description="The Maven Code is the Collective's structured curriculum that turns the Doctrine into actionable understanding. Progress in the initiatory path of Entered, Fellow, and Master Maven by applying the immutable principles of Natural Law to your life."
         :links="ctaJoin"
         spotlight
         class="shadow-md dark:bg-neutral-950"
@@ -238,3 +241,35 @@ const ctaJoin = ref<ButtonProps[]>([
     /> -->
   </div>
 </template>
+
+<style lang="css" scoped>
+@keyframes solSeed {
+  from {
+    transform: translateY(300px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 0.13;
+  }
+}
+
+@keyframes solSeedReverse {
+  from {
+    transform: translateY(-300px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 0.23;
+  }
+}
+/* animation: [name] [duration] [timing-function] [delay] [iteration-count] [direction] [fill-mode] [play-state]; */
+.animateSolSeed {
+  animation: solSeed 10s ease-in-out infinite alternate;
+}
+
+.animateSolSeedReverse {
+  animation: solSeedReverse 16.2s ease-in-out infinite alternate;
+}
+</style>
