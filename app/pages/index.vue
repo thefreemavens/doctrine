@@ -23,8 +23,7 @@ const links = ref<ButtonProps[]>([
   {
     label: 'Read the Doctrine',
     to: '/getting-started',
-    icon: 'i-lucide-arrow-right',
-    size: 'md'
+    icon: 'i-lucide-arrow-right'
   },
   {
     label: 'View Contribution Guide',
@@ -95,13 +94,15 @@ const ctaJoin = ref<ButtonProps[]>([
         <HeroBackground class="-z-50" />
       </template>
 
-      <UPageCard
-        class="size-64 sm:size-72 md:size-80 lg:size-96 xl:size-112 aspect-square mx-auto rounded-2xl p-8 group relative"
-        variant="ghost"
-        spotlight
-      >
-        <AppSeed class="mx-auto group-hover:stroke-12 transition-all duration-6666 ease-out group-hover:duration-2000 text-primary group-hover:text-primary" />
-      </UPageCard>
+      <NuxtLink to="/getting-started">
+        <UPageCard
+          class="size-64 sm:size-72 md:size-80 lg:size-96 xl:size-112 aspect-square mx-auto rounded-2xl p-8 group relative"
+          variant="ghost"
+          spotlight
+        >
+          <AppSeed class="mx-auto group-hover:stroke-12 transition-all duration-6666 ease-out group-hover:duration-2000 text-primary group-hover:text-primary" />
+        </UPageCard>
+      </NuxtLink>
     </UPageHero>
 
     <!-- LEARN -->
