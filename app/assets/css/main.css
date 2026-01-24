@@ -3,13 +3,16 @@
 
 @source "../../../content/**/*";
 
-/* Source: https://github.com/nuxt/ui/issues/2332 */
 @layer base {
-   button,
-   [role="button"] {
-      @apply cursor-pointer;
-      @apply disabled:cursor-not-allowed;
-   }
+  
+  html { scroll-behavior: smooth; }
+  
+  /* Source: https://github.com/nuxt/ui/issues/2332 */
+  button,
+  [role="button"] {
+    @apply cursor-pointer;
+    @apply disabled:cursor-not-allowed;
+  }
 }
 
 @theme static {
