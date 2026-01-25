@@ -23,7 +23,7 @@ const links = ref<ButtonProps[]>([
   {
     label: 'Read the Doctrine',
     to: '/getting-started',
-    icon: 'i-lucide-arrow-right'
+    icon: 'i-local-arrow-right'
   },
   {
     label: 'View Contribution Guide',
@@ -38,7 +38,7 @@ const ctaLearn = ref<ButtonProps[]>([
   {
     label: 'Explore the Open Doctrine',
     to: '/getting-started/usage',
-    trailingIcon: 'i-lucide-arrow-right',
+    trailingIcon: 'i-local-arrow-right',
     variant: 'solid'
   }
 ])
@@ -47,7 +47,7 @@ const ctaContribute = ref<ButtonProps[]>([
   {
     label: 'Learn How To Contribute',
     to: '/getting-started/usage',
-    trailingIcon: 'i-lucide-arrow-right',
+    trailingIcon: 'i-local-arrow-right',
     variant: 'solid'
   }
 ])
@@ -56,13 +56,13 @@ const ctaJoin = ref<ButtonProps[]>([
   {
     label: 'The Initiatory Path',
     to: '/getting-started/',
-    trailingIcon: 'i-lucide-arrow-right',
+    trailingIcon: 'i-local-arrow-right',
     variant: 'solid'
   },
   {
     label: 'The Maven Code',
     to: '/getting-started/usage',
-    trailingIcon: 'i-lucide-arrow-right',
+    trailingIcon: 'i-local-arrow-right',
     variant: 'subtle'
   }
 ])
@@ -122,42 +122,42 @@ const ctaJoin = ref<ButtonProps[]>([
           description="The complete Natural Law seminar, segmented and annotated for study."
           variant="subtle"
           spotlight
-          icon="i-lucide-book-open-text"
+          icon="i-local-book-open-text"
         />
         <UPageCard
           title="The Principles Decrypted"
           description="A clear breakdown of the 7 Hermetic Laws and the generative 8th (Care), with definitions and examples."
           variant="subtle"
           spotlight
-          icon="i-lucide-compass"
+          icon="i-local-compass"
         />
         <UPageCard
           title="The Science of Morality"
           description="Explore the objective framework of Right Action, Wrong Action, and the No Harm rule derived from Natural Law."
           variant="subtle"
           spotlight
-          icon="i-lucide-scale"
+          icon="i-local-scale"
         />
         <UPageCard
           title="Sovereignty & The Great Work"
           description="Learn the path of the Internal Monarchy and your role in the collective elevation of consciousness."
           variant="subtle"
           spotlight
-          icon="i-lucide-brain"
+          icon="i-local-brain"
         />
         <UPageCard
           title="Cross-Referenced Glossary"
           description="Every key term (e.g., Natural Law, Truth, Religion, Statism) is defined and linked across all texts."
           variant="subtle"
           spotlight
-          icon="i-lucide-link"
+          icon="i-local-link"
         />
         <UPageCard
           title="Curated Reading Paths"
           description="Follow guided sequences: Start Here for First Principles, Path to The Great Work, Deep Dive on Cause & Effect."
           variant="subtle"
           spotlight
-          icon="i-lucide-git-compare-arrows"
+          icon="i-local-git-compare-arrows"
         />
       </template>
     </UPageSection>
@@ -178,42 +178,42 @@ const ctaJoin = ref<ButtonProps[]>([
           description="Join a translation team to make the texts available in your native language. All translations are peer-reviewed."
           variant="subtle"
           spotlight
-          icon="i-lucide-globe"
+          icon="i-local-globe"
         />
         <UPageCard
           title="Propose Clarifications"
           description="Submit pull requests to improve the clarity, flow, or accuracy of existing explanations."
           variant="subtle"
           spotlight
-          icon="i-lucide-pencil-line"
+          icon="i-local-pencil-line"
         />
         <UPageCard
           title="Build Interactive Tools"
           description="Develop calculators, diagrams, or interactive exercises that help explain the principles (e.g., a Spiritual Currency Audit tool)."
           variant="subtle"
           spotlight
-          icon="i-lucide-code"
+          icon="i-local-code"
         />
         <UPageCard
           title="Annotate & Discuss"
           description="Add contextual notes, historical references, or contemporary examples to specific passages via the discussion forum."
           variant="subtle"
           spotlight
-          icon="i-lucide-message-circle-more"
+          icon="i-local-message-circle-more"
         />
         <UPageCard
           title="Create Derivative Works"
           description="Write summarized guides, create video scripts, or design educational resources based on the Doctrine (licensed under the same open terms)."
           variant="subtle"
           spotlight
-          icon="i-lucide-git-fork"
+          icon="i-local-git-fork"
         />
         <UPageCard
           title="Review Contributions"
           description="Help maintain quality by reviewing and verifying the accuracy of translations, code, and edits submitted by others."
           variant="subtle"
           spotlight
-          icon="i-lucide-search"
+          icon="i-local-search"
         />
       </template>
     </UPageSection>

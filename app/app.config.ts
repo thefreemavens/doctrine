@@ -87,39 +87,58 @@ export default defineAppConfig({
   footer: {
     credits: `The Freemavens © ${new Date().getFullYear()}`,
     colorMode: false,
-    links: [{
-      'icon': 'i-simple-icons-discord',
-      'to': 'https://discord.gg/pThMw5mjWw',
-      'target': '_blank',
-      'aria-label': 'Nuxt on Discord'
-    }, {
-      'icon': 'i-simple-icons-x',
-      'to': 'https://go.nuxt.com/x',
-      'target': '_blank',
-      'aria-label': 'Nuxt on X'
-    }, {
-      'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
-      'target': '_blank',
-      'aria-label': 'The Freemavens on GitHub'
-    }]
+    links: [
+      {
+        'icon': 'i-local-x',
+        'to': 'https://go.nuxt.com/x',
+        'target': '_blank',
+        'aria-label': 'The Freemavens on X'
+      },
+      {
+        'icon': 'i-local-discord',
+        'to': 'https://discord.gg/pThMw5mjWw',
+        'target': '_blank',
+        'aria-label': 'The Freemavens on Discord'
+      },
+      {
+        'icon': 'i-local-telegram',
+        'to': 'https://t.me/thefreemavens',
+        'target': '_blank',
+        'aria-label': 'The Freemavens on Telegram'
+      },
+      {
+        'icon': 'i-local-github',
+        'to': 'https://github.com/nuxt/ui',
+        'target': '_blank',
+        'aria-label': 'The Freemavens on GitHub'
+      }
+    ]
   },
   toc: {
-    title: 'Table of Contents',
+    title: 'On this page:',
     bottom: {
       title: 'Community',
       edit: 'https://github.com/thefreemavens/doctrine/edit/main/content',
-      links: [{
-        icon: 'i-lucide-star',
-        label: 'Star on GitHub',
-        to: 'https://github.com/nuxt/ui',
-        target: '_blank'
-      }, {
-        icon: 'i-lucide-book-open',
-        label: 'Telegram Group',
-        to: 'https://t.me/thefreemavens',
-        target: '_blank'
-      }]
+      links: [
+        {
+          icon: 'i-local-star',
+          label: 'Star on GitHub',
+          to: 'https://github.com/thefreemavens/doctrine',
+          target: '_blank'
+        },
+        {
+          icon: 'i-local-discord',
+          label: 'Discord',
+          to: 'https://discord.gg/pThMw5mjWw',
+          target: '_blank'
+        },
+        {
+          icon: 'i-local-telegram',
+          label: 'Telegram',
+          to: 'https://t.me/thefreemavens',
+          target: '_blank'
+        }
+      ]
     }
   }
 })

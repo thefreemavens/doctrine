@@ -22,7 +22,7 @@ The complete, structured, and immutable body of Natural Law knowledge. Read, tra
   ---
   to: /getting-started
   size: xl
-  trailing-icon: i-lucide-arrow-right
+  trailing-icon: i-local-arrow-right
   ---
   Read the Doctrine
   :::
@@ -90,7 +90,7 @@ Begin your journey with the foundational knowledge. The Doctrine is presented in
   color: primary
   size: lg
   to: /getting-started
-  trailingIcon: i-lucide-arrow-right
+  trailingIcon: i-local-arrow-right
   variant: solid
   ---
   Explore the Open Doctrine
@@ -101,7 +101,7 @@ Begin your journey with the foundational knowledge. The Doctrine is presented in
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-book-open-text
+  icon: i-local-book-open-text
   ---
   #title
   The Core Transcripts
@@ -114,7 +114,7 @@ Begin your journey with the foundational knowledge. The Doctrine is presented in
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-compass
+  icon: i-local-compass
   ---
   #title
   The Principles Decrypted
@@ -127,7 +127,7 @@ Begin your journey with the foundational knowledge. The Doctrine is presented in
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-scale
+  icon: i-local-scale
   ---
   #title
   The Science of Morality
@@ -140,7 +140,7 @@ Begin your journey with the foundational knowledge. The Doctrine is presented in
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-brain
+  icon: i-local-brain
   ---
   #title
   Sovereignty & The Great Work
@@ -153,7 +153,7 @@ Begin your journey with the foundational knowledge. The Doctrine is presented in
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-link
+  icon: i-local-link
   ---
   #title
   Cross-Referenced Glossary
@@ -166,7 +166,7 @@ Begin your journey with the foundational knowledge. The Doctrine is presented in
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-git-compare-arrows
+  icon: i-local-git-compare-arrows
   ---
   #title
   Curated Reading Paths
@@ -189,7 +189,7 @@ This is a living, open-source project. Add your skills to help translate, clarif
   color: primary
   size: lg
   to: /getting-started
-  trailingIcon: i-lucide-arrow-right
+  trailingIcon: i-local-arrow-right
   variant: solid
   ---
   Learn How To Contribute
@@ -200,7 +200,7 @@ This is a living, open-source project. Add your skills to help translate, clarif
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-globe
+  icon: i-local-globe
   ---
   #title
   Translate the Doctrine
@@ -213,7 +213,7 @@ This is a living, open-source project. Add your skills to help translate, clarif
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-pencil-line
+  icon: i-local-pencil-line
   ---
   #title
   Propose Clarifications
@@ -226,7 +226,7 @@ This is a living, open-source project. Add your skills to help translate, clarif
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-code
+  icon: i-local-code
   ---
   #title
   Build Interactive Tools
@@ -239,7 +239,7 @@ This is a living, open-source project. Add your skills to help translate, clarif
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-message-circle-more
+  icon: i-local-message-circle-more
   ---
   #title
   Annotate & Discuss
@@ -252,7 +252,7 @@ This is a living, open-source project. Add your skills to help translate, clarif
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-git-fork
+  icon: i-local-git-fork
   ---
   #title
   Create Derivative Works
@@ -265,7 +265,7 @@ This is a living, open-source project. Add your skills to help translate, clarif
   ---
   variant: subtle
   spotlight: true
-  icon: i-lucide-search
+  icon: i-local-search
   ---
   #title
   Review Contributions
@@ -281,7 +281,7 @@ This is a living, open-source project. Add your skills to help translate, clarif
   links:
     - label: Start building
       to: '/getting-started/usage'
-      trailingIcon: i-lucide-arrow-right
+      trailingIcon: i-local-arrow-right
     - label: View on GitHub
       to: 'https://github.com/thefreemavens/doctrine'
       variant: subtle
