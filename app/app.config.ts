@@ -16,6 +16,10 @@ export default defineAppConfig({
       primary: 'brand',
       neutral: 'earth'
     },
+    // fonts: {
+    //   provider: 'local',
+    // },
+    // fonts: false,
     footer: {
       slots: {
         root: 'border-t border-default',
@@ -35,7 +39,7 @@ export default defineAppConfig({
     },
     pageHero: {
       slots: {
-        header: 'font-display',
+        // header: 'font-display',
         // root: 'relative isolate',
         // container: 'flex flex-col lg:grid py-24 sm:py-32 lg:py-40 gap-16 sm:gap-y-24',
         wrapper: 'text-center lg:text-left',

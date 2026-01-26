@@ -31,8 +31,8 @@ useSeoMeta({
   ogDescription: description,
   // ogImage: '/img/content/yt-poster.png',
   // twitterImage: '/img/content/yt-poster.png',
-  ogImage: '/img/assets/tfm-doctrine-home-screenshot-light.png',
-  twitterImage: '/img/assets/tfm-doctrine-home-screenshot-light.png',
+  ogImage: '/img/assets/tfm-doctrine-home-screenshot-dark.png',
+  twitterImage: '/img/assets/tfm-doctrine-home-screenshot-dark.png',
   ogUrl: 'https://doctrine.thefreemavens.org/',
   twitterTitle: title,
   twitterDescription: description

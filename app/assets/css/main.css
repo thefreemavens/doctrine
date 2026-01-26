@@ -19,12 +19,12 @@
   --container-8xl: 90rem;
   /* --container-8xl: 96rem; */
 
-  --font-display: 'Geist', sans-serif;
-  /* --font-display: 'Funnel Display', sans-serif; */
   --font-sans: 'Geist', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  /* --font-display: 'Geist', sans-serif; */
+  /* --font-display: 'Funnel Display', sans-serif; */
   /* --font-sans: 'Public Sans', sans-serif; */
   /* --font-mono: 'Google Sans Code', monospace;  */
-  --font-mono: 'JetBrains Mono', monospace;
 
   --color-brand-50:  #fbfaff;
   --color-brand-100: #f6f4ff;
