@@ -1,5 +1,6 @@
 export default defineAppConfig({
-  title: 'The Freemavens',
+  title: 'The Open Doctrine',
+  description: 'The immutable body of Natural Law knowledge made permanently and freely accessible to all.',
   vweb: '0.1.1',
   vapp: '29.2',
   url: {
@@ -119,6 +120,7 @@ export default defineAppConfig({
     bottom: {
       title: 'Community',
       edit: 'https://github.com/thefreemavens/doctrine/edit/main/content',
+      icon: 'i-local-',
       links: [
         {
           icon: 'i-local-star',
