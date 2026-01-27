@@ -54,9 +54,14 @@ export default defineAppConfig({
       primary: 'brand',
       neutral: 'earth'
     },
+    contentSearch: {
+      slots: {
+        modal: 'bg-neutral-50 dark:bg-neutral-900',
+      }
+    },
     contentSearchButton: {
       slots: {
-        base: 'bg-neutral-200/80 dark:bg-neutral-700/90',
+        base: 'bg-neutral-200/80 hover:bg-neutral-300/60 dark:bg-neutral-700/90 dark:hover:bg-neutral-600/80',
       },
     }
   }

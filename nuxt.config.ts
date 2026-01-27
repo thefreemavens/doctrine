@@ -9,9 +9,15 @@ export default defineNuxtConfig({
     locales: [{
       code: 'en',
       name: 'English',
+      dir: 'ltr'
     }, {
       code: 'fr',
       name: 'Français',
+      dir: 'ltr'
+    }, {
+      code: 'he',
+      name: 'עברית',
+      dir: 'rtl'
     }],
   },
 
