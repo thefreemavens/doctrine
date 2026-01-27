@@ -1,0 +1,85 @@
+# Introduction
+
+> Welcome to the Open Doctrine. An immutable body of Natural Law knowledge made permanently and freely accessible to all.
+
+## De-Occultation is our purpose
+
+For centuries, the core principles governing reality, consciousness, and morality have been fragmented, obscured, or guarded as "occult" (hidden) knowledge. This has created systems of control, confusion, and dependence.
+
+Our mission is **de-occultation**. We make this knowledge whole, clear, and permanently accessible. We hold that understanding the immutable laws of nature is the prerequisite for individual sovereignty and a free society. This is not a matter of belief, but of demonstrable truth.
+
+## What this repository contains
+
+<tip>
+
+The Doctrine is built upon seminal work and is a comprehensive synthesis of **Natural Law** and **Hermetic** wisdom.
+
+</tip>
+
+Here you will find:
+
+<card-group className="my-12">
+<card icon="i-local-book-open-text" title="The Core Transcripts">
+
+The complete, verbatim text of the foundational teachings, carefully segmented and annotated for study.
+
+</card>
+
+<card icon="i-local-lock-open" title="The Principles Decrypted">
+
+Clear explanations of the universal operating principles, including the seven Hermetic laws and the generative eighth principle of <b>
+
+Care
+
+</b>
+
+.
+
+</card>
+
+<card icon="i-local-scale" title="The Framework of Natural Law">
+
+An objective exploration of morality, rights, freedom, and the consequences of human action, derived from first principles.
+
+</card>
+
+<card icon="i-local-crown" title="The Path of Sovereignty">
+
+Guidance on internal alignment ("The Internal Monarchy") and the external moral obligation ("The Great Work").
+
+</card>
+</card-group>
+
+## Immutable Truth, Living Repository
+
+<note>
+
+The **principles** documented here are immutable. They do not change, evolve, or submit to opinion. They are the consistent laws upon which reality operates.
+
+</note>
+
+This **repository**, however, is a living project. While the core truth is fixed, our collective understanding, expression, and accessibility of it can always improve. This site is built for that purpose: to be clarified, translated, and expanded upon by a global community.
+
+## Two Ways to Engage
+
+1. **Read and Learn:** This is first and foremost a library. Use the navigation to study the material sequentially or explore specific topics. It is freely available to all.
+2. **Contribute and Steward:** This is also an open-source project. If you are skilled in translation, writing, or code, you can help improve the clarity, reach, and utility of this knowledge for everyone. See our [Contribution Guide](/en/contribute/introduction) to begin.
+
+## The Freemavens Collective
+
+This Doctrine is the foundational text for **The Freemavens Collective**. The Collective is the community of practice - where individuals apply this knowledge, support each other's growth, and collaborate on the "Great Work" of education and elevation.
+
+Think of it this way:
+
+- **The Doctrine is the map.**
+- **The Collective is the expedition.**
+
+You are welcome to study the map on your own. If you seek fellowship, structured guidance, and active projects, you are invited to [join the expedition](https://thefreemavens.org).
+
+## A Final Word
+
+This project is an act of restoration. It is an attempt to return a vital piece of humanity's operating manual to the public domain. We proceed with humility toward the truth and responsibility toward each other.
+
+Thank you for being here. Your attention is the first step.
+
+**Proceed to Usage for a guide to this repository of knowledge, or begin exploring the Open Doctrine of Natural Law.**

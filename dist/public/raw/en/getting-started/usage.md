@@ -1,0 +1,64 @@
+# Usage
+
+> This guide explains the structure of The Open Doctrine and how to navigate it for effective study and reference.
+
+## The Two Modes of Use
+
+This site is designed for two primary modes, reflecting your stage of learning:
+
+1. **The Linear Path (For First-Time Study):** Follow the chapters in sequence to build a complete understanding.
+2. **The Reference Mode (For Review & Research):** Use the search and reference sections to find specific concepts.
+
+## 1. Starting the Linear Path: The Recommended Study Order
+
+For a complete understanding, follow the chapters in the order presented in the **main navigation sidebar** under **"Study the Doctrine."** This path is deliberately sequential; each chapter builds upon concepts introduced in earlier ones.
+
+- **Do not skip around on your first pass.** Start with the **Introduction** and proceed step-by-step.
+- The sidebar will always show your **current position** and the **next chapter**.
+- Tip: Use your browser's bookmark function to save your progress.
+
+## 2. Navigating a Chapter Page
+
+Each chapter (e.g., "Principle of Care") is a self-contained unit with integrated multimedia. Here’s what you’ll find and how to use it:
+
+- **Chapter Title & Description:** At the top. Read this to understand the chapter's core focus.
+- **"On This Page" Side Navigation:** On the right (or left on mobile). Use these links to **jump instantly** to specific sections within the long chapter page, such as the video segment, key slides, or transcript analysis.
+- **The Integrated Content:**
+  - **Video Segment:** An embedded player for the specific seminar portion. Click to play.
+  - **Slides:** Key visual aids from the video. **Click any slide to enlarge it** for detailed study.
+  - **Transcript & Essay:** The written core of the chapter. This text elaborates on the video, providing definitions, context, and deeper explanation.
+
+## 3. Using the Search System (Your Primary Research Tool)
+
+The **search icon (🔍) in the top header** is your most powerful tool for reference and review.
+
+1. **Click the search icon** to open the search modal.
+2. **For Immediate Answers:** Start typing a term (e.g., "Care," "Mentalism," "spiritual currency") in the search bar. Results will appear in real-time.
+3. **To Browse the Full Structure:** Look at the **categorized site map** listed below the search bar. This shows you every page, organized by section (Getting Started, Study the Doctrine, Reference, Contribute). It's the perfect way to grasp the site's entire scope at a glance.
+
+## 4. Using the Reference Sections
+
+Once you grasp the core material, these sections become invaluable:
+
+- **Glossary:** Located under **Reference** in the main nav. Use this to find precise definitions of key terms like "De-occultation," "Generative Principle," or "The Great Work."
+- **Resources:** A curated list of external books, lectures, and tools related to Natural Law and the principles discussed here.
+- **FAQ:** Answers to common questions about the project, the content, and the philosophy behind it.
+
+## 5. Getting Involved: The Contribution Path
+
+If you wish to move from study to stewardship - by translating, clarifying text, or reporting issues - all the practical guides are in the **Contribute** section. Start with the [Contribution Overview](/en/contribute/introduction) page.
+
+## Quick Start Checklist
+
+- [ ] **First-time visitor?** Start with the [Introduction](/en/natural-law/introduction) and follow the linear path.
+- [ ] **Looking for a specific concept?** Use the **Search (🔍)** function in the header.
+- [ ] **Need a definition?** Check the [Glossary](/en/reference/glossary).
+- [ ] **Want to help improve the site?** Visit the [Contribute](/en/contribute/introduction) section.
+
+---
+
+*This site is a blend of a structured course and a living reference. We recommend using the linear path for foundational learning and the search/reference tools for the rest of your journey.*
+
+---
+
+This page now directly addresses both user types with clear instructions tailored to your site's specific features (linear nav, search modal, chapter layout). It should significantly reduce confusion and support effective learning.

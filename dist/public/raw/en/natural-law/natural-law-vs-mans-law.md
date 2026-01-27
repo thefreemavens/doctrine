@@ -1,0 +1,68 @@
+# Natural Law vs. Mans Law
+
+> The Irreconcilable Conflict Between Immutable Principle and Arbitrary Decree
+
+## Natural Law
+
+**Based upon principles & truth**.<br />
+
+
+Inherent to creation. Things that are inherent to creation are not made or caused by humankind.
+
+**Harmonized with, due to knowledge & understanding. (or rejected, due to ignorance or contradicting beliefs).**<br />
+
+
+Natural Law isn't something that's based on a person's compliance, because that person has to fear the “punishment” of not understanding it. If you don't understand it, and don't live according to it, the result or consequence will be inescapable.
+
+<tip>
+
+If you behave a certain way, there are certain consequences. And if you change your
+behavior, you'll change the consequential results.
+
+</tip>
+
+### Universal
+
+Exists and applies anywhere in the universe regardless of location. There is no place you can go in the physical universe where Natural Law doesn't apply.
+
+### Eternal and immutable.
+
+Exists and applies for as long as the universe exists, and cannot be changed. Natural Law is immutable because it cannot be changed by any action that any being in the universe is capable of taking.
+
+---
+
+## Man's Law (Government)
+
+### Dogmatic
+
+Based upon dogmatic beliefs. (Constructs of mind). These beliefs can be seen as “programs” operating in the human mind.
+
+### Fear Based
+
+Complied with due to fear of punishment. Fear is usually the only reason people ever comply with the law of man; and fear is an extremely low state of consciousness.
+
+### Location Based Moral Relativism
+
+Differs with location based upon the whim of legislators. For example, prohibition; you are "allowed" to smoke marijuana in certain countries, but could be jailed for doing the exact same thing in another country where it's deemed "illegal".
+
+### Time Based Moral Relativism
+
+Changes with time based upon the whim of legislators. To use prohibition as an example again; from 1920 until 1933, it was made illegal to possess, and to consume alcohol in the United States of America. Before 1920 it was legal, and after 1933 it was made legal again, all because of what some politicians wrote on pieces of paper.
+
+For man's law this means; if a particular man-made law is in harmony with Natural Law, then it follows logically that it is redundant, since it is stating a truth that is pre-existing and inherent in Nature. Therefore, the writing down of that concept and calling it a law, is both unnecessary and irrelevant.
+
+If a particular man-made law is in opposition to Natural Law, then it follows logically that it is both false (incorrect) and immoral (harmful to others), more simply put, it's wrong. Because if it isn't based in Natural Law it means that it is causing somebody harm by taking something that belongs to them, whether it's a right, or any physical possession. Therefore, it can never be legitimately binding upon anyone. Somebody can't write down a wrong-doing and tell you that it is morally binding upon you, while simultaneously literally stating that even though it causes harm, you must obey this rule.
+
+<tip>
+
+In light and presence of Natural Law, man's “law” is always unnecessary and irrelevant.
+
+</tip>
+
+---
+
+## Resources:
+
+### Video
+
+## <you-tube id="fUoLr8Gs6vE" time="3274"></you-tube>

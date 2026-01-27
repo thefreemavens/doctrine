@@ -1,0 +1,62 @@
+# Right vs. Wrong
+
+> The concepts Right and Wrong are Diametric Opposites of one another. Right and wrong do not merely exist as concepts in the human mind, anybody who believes that is engaged in Satanism, whether they are aware of it or not.
+
+This can be explained in a way that's completely unambiguous; if you believe that there is no real difference between right and wrong, and that this concept isn't inherent in Nature, you are accepting a Satanic belief. This is because the second tenet of Satanism is the concept of "Moral Relativism" (left brain imbalance).
+
+<todo>
+
+Insert chart
+
+</todo>
+
+## The Pillars of Satanism
+
+There are four main tenets for the ideology of Satanism, also referred to as the "Pillars of Satanism":
+
+## 1. Self Preservation
+
+Is the highest aspiration: If they must step on others to save themselves, they will have no problem doing so.
+
+## 2. Moral relativism
+
+To Satanists there is no such thing as the objective difference between right and wrong behavior. They consider 'right' to be what is 'good for me'
+and 'wrong' what is 'bad for me.' And that they themselves can make up the difference between the two, based on their own personal likes and preferences.
+
+## 3. Social Darwinism
+
+A ruling class delegates itself the right to control and direct the masses, because they believe they know better than the rest of humanity.
+
+## 4. Eugenics
+
+A social ideology advocating the promotion of higher rates of sexual reproduction for people with traits and characteristics desired by its proponents - in this case Satanists - and reduced rates of sexual reproduction, or even sterilization for those with undesired traits and characteristics. The word is derived from the Greek adjective 'Eugenes (εύγενής)' which means 'Well-born / of Good stock / of Noble race.' Which is in turn derived from the Greek adjective 'Eu- (εὖ-)' which means 'Good / Well,' and the Greek noun 'Genos (γένος)' meaning 'Birth / Race / Stock.'
+
+---
+
+<note>
+
+Morality is not about right versus left, it's about right versus wrong.
+
+</note>
+
+<tip>
+
+A deep understanding of morality, and the principles concerning the distinction between right and wrong behavior, lies at the very heart of Natural Law.
+
+</tip>
+
+Just as in ancient Rome the word **Liber** meant "Book" (Library), and "Free" (Liberty) simultaneously. The word **Right** means "Correct" and "Moral" simultaneously, as does **Wrong** mean "Incorrect" and "Immoral" simultaneously.
+
+## What a Right Is
+
+So, in the sense of what you "have a right to do", what is a right?
+
+A right is any action in which you are correct and moral in doing so. Every single person has the same rights as the next; not one person has any more rights than another, nor any less rights, at any place, at any time.
+
+---
+
+## Resources:
+
+### Video
+
+## <you-tube id="OGaIi3Bo1hM" time="10322"></you-tube>

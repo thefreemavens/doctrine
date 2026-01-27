@@ -1,0 +1,125 @@
+# The Open Doctrine
+
+> The canonical, open-source repository of Natural Law knowledge. Read, translate, and contribute to the decrypted principles of sovereignty.
+
+## Documentation Sets
+
+- [The Freemavens Doctrine - Complete Knowledge Base](https://doctrine.thefreemavens.org//llms-full.txt): The structured documentation of **immutable** truth - containing the Hermetic Principles, the Generative Principle of Care, and the objective science of Natural Law. This is the foundational text for the Freemavenry path.
+
+## LandingEn
+
+- [The Doctrine is Open.](https://doctrine.thefreemavens.org/raw/en.md): The complete, structured, and immutable body of Natural Law knowledge. Learn, translate, and contribute to the source code of sovereignty.
+
+## DocsEn
+
+- [Introduction](https://doctrine.thefreemavens.org/raw/en/getting-started/introduction.md): Welcome to the Open Doctrine. An immutable body of Natural Law knowledge made permanently and freely accessible to all.
+- [Usage](https://doctrine.thefreemavens.org/raw/en/getting-started/usage.md): This guide explains the structure of The Open Doctrine and how to navigate it for effective study and reference.
+- [Summary](https://doctrine.thefreemavens.org/raw/en/natural-law/summary.md): A comprehensive summary and key takeaways from the Natural Law Knowledge Base.
+- [Introduction](https://doctrine.thefreemavens.org/raw/en/natural-law/introduction.md)
+- [Before We Begin...](https://doctrine.thefreemavens.org/raw/en/natural-law/before-we-begin.md): This guide is an initiation into very deeply esoteric material, that has been hidden from humanity for decades.
+- [Teachability](https://doctrine.thefreemavens.org/raw/en/natural-law/teachability.md): A person's teachability, or their ability to learn by being taught by another, is extremely dependent upon the open-mindedness or closed-mindedness of the person being taught.
+- [Requirements & the Role of Knowledge](https://doctrine.thefreemavens.org/raw/en/natural-law/requirements-and-the-role-of-knowledge.md): Why Specific Understanding is the Non-Negotiable First Cause of Any Desired Effect
+- [Occult Knowledge](https://doctrine.thefreemavens.org/raw/en/natural-law/occult-knowledge.md)
+- [Natural Law](https://doctrine.thefreemavens.org/raw/en/natural-law/natural-law.md): Natural Law is a set of universal, objective, eternal, non-man-made, binding and immutable conditions which govern the consequences of behaviors of beings with the capacity for understanding the difference between harmful and non-harmful actions.
+- [Nescience vs. Ignorance: the Contexts of Not Knowing](https://doctrine.thefreemavens.org/raw/en/natural-law/nescience-vs-ignorance-the-contexts-of-not-knowing.md): We should make a very clear distinction between Nescience and Ignorance, so that the difference between these two concepts is fully understood.
+- [Problem Solving](https://doctrine.thefreemavens.org/raw/en/natural-law/problem-solving.md): There are a few main steps to solving a problem, any problem at all. It doesn't matter what the nature of the problem is.
+- [Truth vs. Perception](https://doctrine.thefreemavens.org/raw/en/natural-law/truth-vs-perception.md): Distinguishing Objective Reality from Subjective Experience
+- [Solipsism](https://doctrine.thefreemavens.org/raw/en/natural-law/solipsism.md): Solipsism is a completely egocentric and destructive ideology, that has absolutely no resemblance to truth in any way.
+- [Definition of Natural Law](https://doctrine.thefreemavens.org/raw/en/natural-law/definition-of-natural-law.md): The Immutable, Non-Man-Made Science of Consequences
+- [Discovery vs. Belief](https://doctrine.thefreemavens.org/raw/en/natural-law/discovery-vs-belief.md): There are two ways to be fooled. One is to believe what is not to true; the other is to refuse to accept what is true.
+- [Consciousness & the Brain](https://doctrine.thefreemavens.org/raw/en/natural-law/consciousness-and-the-brain.md): The Physiology of Awareness and Its Role in Creating Reality
+- [Brain Structure & Behavior](https://doctrine.thefreemavens.org/raw/en/natural-law/brain-structure-and-behavior.md): Brain health plays a critical role in human behavior, which is why it's extremely important for people to become familiar with the brain's basic structure and functions.
+- [Mental & Worldview Schism](https://doctrine.thefreemavens.org/raw/en/natural-law/mental-and-worldview-schism.md): The Internal Conflict That Fuels External Disorder
+- [Human Nature](https://doctrine.thefreemavens.org/raw/en/natural-law/human-nature.md): Human nature is neither inherently good, nor bad. Instead, we should consider the operating conditions, and the environment in which human beings exist, that influence their behavior to a great extent; thus, creating the current human condition.
+- [Principles of Natural Law](https://doctrine.thefreemavens.org/raw/en/natural-law/principles-of-natural-law.md): Natural Law is expressed through seven basic underlying principles, and the 8th Lost Principle which binds the other seven together. These principles constitute as the Master Key through which universal wisdom is unveiled.
+- [The Two Spiritual Currencies](https://doctrine.thefreemavens.org/raw/en/natural-law/the-two-spiritual-currencies.md): Time and Attention, our two Spiritual Currencies. This analogy can be seen very readily in the sayings "spending time" and "paying attention".
+- [Natural Law Also Known As...](https://doctrine.thefreemavens.org/raw/en/natural-law/natural-law-also-known-as.md): Natural Law has had many different names in many different cultures and traditions throughout the world, during different times in history.
+- [Natural Law Expressions](https://doctrine.thefreemavens.org/raw/en/natural-law/natural-law-expressions.md): These expressions are the recognizable workings of Natural Law that manifest through five basic expressions, which each have a positive and a negative aspect. Giving us a total of ten overall Natural Law expressions.
+- [Right vs. Wrong](https://doctrine.thefreemavens.org/raw/en/natural-law/right-vs-wrong.md): The concepts Right and Wrong are Diametric Opposites of one another. Right and wrong do not merely exist as concepts in the human mind, anybody who believes that is engaged in Satanism, whether they are aware of it or not.
+- [Knowing Rights](https://doctrine.thefreemavens.org/raw/en/natural-law/knowing-rights.md): Rights are most easily understood when they are considered through Apophatic Inquiry
+- [Natural Law Transgressions](https://doctrine.thefreemavens.org/raw/en/natural-law/natural-law-transgressions.md): The five most harmful actions under Natural Law
+- [Taxation, Prohibition, Licenses & Permits](https://doctrine.thefreemavens.org/raw/en/natural-law/taxation-prohibition-licenses-and-permits.md): Let's examine Taxation for what it really is, without euphemizing.
+- [Force vs. Violence](https://doctrine.thefreemavens.org/raw/en/natural-law/force-vs-violence.md): Force and violence are often spoken about as if they are one and the same, and used interchangeably. While in fact, they are actually diametrically opposed, polar opposites.
+- [The Two Pillars of Enlightenment](https://doctrine.thefreemavens.org/raw/en/natural-law/the-two-pillars-of-enlightenment.md): There is no such thing as an enlightened being that doesn't fully grasp both of the following principles.
+- [Ownership](https://doctrine.thefreemavens.org/raw/en/natural-law/ownership.md): The main reason our species continues to experience a systematic and growing loss of freedom is because we collectively do not deeply understand ownership, and we continue to commit and condone theft.
+- [Conscience](https://doctrine.thefreemavens.org/raw/en/natural-law/conscience.md): Most people don't seem to think of conscience as knowledge, while that is exactly what it truly is. It isn't behavior, it isn't action; it's knowledge.
+- [The Law of Freedom](https://doctrine.thefreemavens.org/raw/en/natural-law/the-law-of-freedom.md): The law of freedom states: Freedom and Morality are directly proportional.
+- [Natural Law vs. Mans Law](https://doctrine.thefreemavens.org/raw/en/natural-law/natural-law-vs-mans-law.md): The Irreconcilable Conflict Between Immutable Principle and Arbitrary Decree
+- [Equality Under Natural Law](https://doctrine.thefreemavens.org/raw/en/natural-law/equality-under-natural-law.md): Everyone has the exact same rights Nobody has any more or any less rights than anyone else.
+- [The One True Divide](https://doctrine.thefreemavens.org/raw/en/natural-law/the-one-true-divide.md): There is only one true divide that separates humanity into two distinct types of individuals. The criterion for this divide is whether or not a person believes in “authority", and therefore believes that there is legitimacy to slavery.
+- [Statism vs. Anarchy](https://doctrine.thefreemavens.org/raw/en/natural-law/statism-vs-anarchy.md): The Fundamental Choice Between Rulers and Natural Order
+- [The Fear of Chaos](https://doctrine.thefreemavens.org/raw/en/natural-law/the-fear-of-chaos.md): Chaos shouldn't be viewed as something to be feared, it should rather be viewed as a teacher. Definitely a harsh teacher, but a teacher nonetheless. It teaches us through the apophatic process, what not to do.
+- [Order Followers](https://doctrine.thefreemavens.org/raw/en/natural-law/order-followers.md): Order-Followers are the people that keep the currently existent system of slavery in place.
+- [Moral Culpability](https://doctrine.thefreemavens.org/raw/en/natural-law/moral-culpability.md): The Objective Assignment of Responsibility for Harm, from Thought to Action
+- [Responsibility vs. Abdication](https://doctrine.thefreemavens.org/raw/en/natural-law/responsibility-vs-abdication.md): The ability to respond.
+- [Self Loathing vs. Self Respect](https://doctrine.thefreemavens.org/raw/en/natural-law/self-loathing-vs-self-respect.md): People who don't want to take responsibility and become adult human beings are in the psychological condition of Self Loathing What this means is, they hate themselves; nobody that wants to perpetuate slavery can possibly love themselves.
+- [The Lost Word](https://doctrine.thefreemavens.org/raw/en/natural-law/the-lost-word.md): The lost word is a concept in esoteric Freemasonry which represents a state of consciousness that has been largely "lost" to the majority of people.
+- [Teaching Natural Law to Others](https://doctrine.thefreemavens.org/raw/en/natural-law/teaching-natural-law.md): Teaching Natural Law to others is the Great Work.
+- [Shift Happens](https://doctrine.thefreemavens.org/raw/en/natural-law/shift-happens.md)
+- [The Great Work](https://doctrine.thefreemavens.org/raw/en/natural-law/the-great-work.md): The Great Work can only be performed after one has already realized the truth regarding Natural Law, and brought oneself (one's own actions) into alignment with it.
+- [At the Crossroads](https://doctrine.thefreemavens.org/raw/en/natural-law/at-the-crossroads.md): The conditioning of our thoughts is what has kept us in this prison, and only now are some people beginning to see the actual depth of it.
+- [Conclusion](https://doctrine.thefreemavens.org/raw/en/natural-law/conclusion.md): Each individual has to make that decision for themselves, and that will eventually be expressed in the aggregate.
+- [Attributions](https://doctrine.thefreemavens.org/raw/en/natural-law/attributions.md): This guide would have not come into existence if it wasn't for the paramount work created by the following people
+- [Glossary](https://doctrine.thefreemavens.org/raw/en/reference/glossary.md): Key terms and working definitions.
+- [Resources](https://doctrine.thefreemavens.org/raw/en/reference/resources.md): A curated list of resources related to Natural Law
+- [Introduction](https://doctrine.thefreemavens.org/raw/en/contribute/introduction.md): Get started with contributing to the Open Doctrine repository.
+- [Installation](https://doctrine.thefreemavens.org/raw/en/contribute/installation.md): Get started with contributing to the Open Doctrine Repository.
+
+## LandingFr
+
+- [The Doctrine is Open.](https://doctrine.thefreemavens.org/raw/fr.md): The complete, structured, and immutable body of Natural Law knowledge. Learn, translate, and contribute to the source code of sovereignty.
+
+## DocsFr
+
+- [Introduction](https://doctrine.thefreemavens.org/raw/fr/getting-started/introduction.md): Welcome to the Open Doctrine. An immutable body of Natural Law knowledge made permanently and freely accessible to all.
+- [Usage](https://doctrine.thefreemavens.org/raw/fr/getting-started/usage.md): This guide explains the structure of The Open Doctrine and how to navigate it for effective study and reference.
+- [Summary](https://doctrine.thefreemavens.org/raw/fr/natural-law/summary.md): A comprehensive summary and key takeaways from the Natural Law Knowledge Base.
+- [Introduction](https://doctrine.thefreemavens.org/raw/fr/natural-law/introduction.md)
+- [Before We Begin...](https://doctrine.thefreemavens.org/raw/fr/natural-law/before-we-begin.md): This guide is an initiation into very deeply esoteric material, that has been hidden from humanity for decades.
+- [Teachability](https://doctrine.thefreemavens.org/raw/fr/natural-law/teachability.md): A person's teachability, or their ability to learn by being taught by another, is extremely dependent upon the open-mindedness or closed-mindedness of the person being taught.
+- [Requirements & the Role of Knowledge](https://doctrine.thefreemavens.org/raw/fr/natural-law/requirements-and-the-role-of-knowledge.md): Why Specific Understanding is the Non-Negotiable First Cause of Any Desired Effect
+- [Occult Knowledge](https://doctrine.thefreemavens.org/raw/fr/natural-law/occult-knowledge.md)
+- [Natural Law](https://doctrine.thefreemavens.org/raw/fr/natural-law/natural-law.md): Natural Law is a set of universal, objective, eternal, non-man-made, binding and immutable conditions which govern the consequences of behaviors of beings with the capacity for understanding the difference between harmful and non-harmful actions.
+- [Nescience vs. Ignorance: the Contexts of Not Knowing](https://doctrine.thefreemavens.org/raw/fr/natural-law/nescience-vs-ignorance-the-contexts-of-not-knowing.md): We should make a very clear distinction between Nescience and Ignorance, so that the difference between these two concepts is fully understood.
+- [Problem Solving](https://doctrine.thefreemavens.org/raw/fr/natural-law/problem-solving.md): There are a few main steps to solving a problem, any problem at all. It doesn't matter what the nature of the problem is.
+- [Truth vs. Perception](https://doctrine.thefreemavens.org/raw/fr/natural-law/truth-vs-perception.md): Distinguishing Objective Reality from Subjective Experience
+- [Solipsism](https://doctrine.thefreemavens.org/raw/fr/natural-law/solipsism.md): Solipsism is a completely egocentric and destructive ideology, that has absolutely no resemblance to truth in any way.
+- [Definition of Natural Law](https://doctrine.thefreemavens.org/raw/fr/natural-law/definition-of-natural-law.md): The Immutable, Non-Man-Made Science of Consequences
+- [Discovery vs. Belief](https://doctrine.thefreemavens.org/raw/fr/natural-law/discovery-vs-belief.md): There are two ways to be fooled. One is to believe what is not to true; the other is to refuse to accept what is true.
+- [Consciousness & the Brain](https://doctrine.thefreemavens.org/raw/fr/natural-law/consciousness-and-the-brain.md): The Physiology of Awareness and Its Role in Creating Reality
+- [Brain Structure & Behavior](https://doctrine.thefreemavens.org/raw/fr/natural-law/brain-structure-and-behavior.md): Brain health plays a critical role in human behavior, which is why it's extremely important for people to become familiar with the brain's basic structure and functions.
+- [Mental & Worldview Schism](https://doctrine.thefreemavens.org/raw/fr/natural-law/mental-and-worldview-schism.md): The Internal Conflict That Fuels External Disorder
+- [Human Nature](https://doctrine.thefreemavens.org/raw/fr/natural-law/human-nature.md): Human nature is neither inherently good, nor bad. Instead, we should consider the operating conditions, and the environment in which human beings exist, that influence their behavior to a great extent; thus, creating the current human condition.
+- [Principles of Natural Law](https://doctrine.thefreemavens.org/raw/fr/natural-law/principles-of-natural-law.md): Natural Law is expressed through seven basic underlying principles, and the 8th Lost Principle which binds the other seven together. These principles constitute as the Master Key through which universal wisdom is unveiled.
+- [The Two Spiritual Currencies](https://doctrine.thefreemavens.org/raw/fr/natural-law/the-two-spiritual-currencies.md): Time and Attention, our two Spiritual Currencies. This analogy can be seen very readily in the sayings "spending time" and "paying attention".
+- [Natural Law Also Known As...](https://doctrine.thefreemavens.org/raw/fr/natural-law/natural-law-also-known-as.md): Natural Law has had many different names in many different cultures and traditions throughout the world, during different times in history.
+- [Natural Law Expressions](https://doctrine.thefreemavens.org/raw/fr/natural-law/natural-law-expressions.md): These expressions are the recognizable workings of Natural Law that manifest through five basic expressions, which each have a positive and a negative aspect. Giving us a total of ten overall Natural Law expressions.
+- [Right vs. Wrong](https://doctrine.thefreemavens.org/raw/fr/natural-law/right-vs-wrong.md): The concepts Right and Wrong are Diametric Opposites of one another. Right and wrong do not merely exist as concepts in the human mind, anybody who believes that is engaged in Satanism, whether they are aware of it or not.
+- [Knowing Rights](https://doctrine.thefreemavens.org/raw/fr/natural-law/knowing-rights.md): Rights are most easily understood when they are considered through Apophatic Inquiry
+- [Natural Law Transgressions](https://doctrine.thefreemavens.org/raw/fr/natural-law/natural-law-transgressions.md): The five most harmful actions under Natural Law
+- [Taxation, Prohibition, Licenses & Permits](https://doctrine.thefreemavens.org/raw/fr/natural-law/taxation-prohibition-licenses-and-permits.md): Let's examine Taxation for what it really is, without euphemizing.
+- [Force vs. Violence](https://doctrine.thefreemavens.org/raw/fr/natural-law/force-vs-violence.md): Force and violence are often spoken about as if they are one and the same, and used interchangeably. While in fact, they are actually diametrically opposed, polar opposites.
+- [The Two Pillars of Enlightenment](https://doctrine.thefreemavens.org/raw/fr/natural-law/the-two-pillars-of-enlightenment.md): There is no such thing as an enlightened being that doesn't fully grasp both of the following principles.
+- [Ownership](https://doctrine.thefreemavens.org/raw/fr/natural-law/ownership.md): The main reason our species continues to experience a systematic and growing loss of freedom is because we collectively do not deeply understand ownership, and we continue to commit and condone theft.
+- [Conscience](https://doctrine.thefreemavens.org/raw/fr/natural-law/conscience.md): Most people don't seem to think of conscience as knowledge, while that is exactly what it truly is. It isn't behavior, it isn't action; it's knowledge.
+- [The Law of Freedom](https://doctrine.thefreemavens.org/raw/fr/natural-law/the-law-of-freedom.md): The law of freedom states: Freedom and Morality are directly proportional.
+- [Natural Law vs. Mans Law](https://doctrine.thefreemavens.org/raw/fr/natural-law/natural-law-vs-mans-law.md): The Irreconcilable Conflict Between Immutable Principle and Arbitrary Decree
+- [Equality Under Natural Law](https://doctrine.thefreemavens.org/raw/fr/natural-law/equality-under-natural-law.md): Everyone has the exact same rights Nobody has any more or any less rights than anyone else.
+- [The One True Divide](https://doctrine.thefreemavens.org/raw/fr/natural-law/the-one-true-divide.md): There is only one true divide that separates humanity into two distinct types of individuals. The criterion for this divide is whether or not a person believes in “authority", and therefore believes that there is legitimacy to slavery.
+- [Statism vs. Anarchy](https://doctrine.thefreemavens.org/raw/fr/natural-law/statism-vs-anarchy.md): The Fundamental Choice Between Rulers and Natural Order
+- [The Fear of Chaos](https://doctrine.thefreemavens.org/raw/fr/natural-law/the-fear-of-chaos.md): Chaos shouldn't be viewed as something to be feared, it should rather be viewed as a teacher. Definitely a harsh teacher, but a teacher nonetheless. It teaches us through the apophatic process, what not to do.
+- [Order Followers](https://doctrine.thefreemavens.org/raw/fr/natural-law/order-followers.md): Order-Followers are the people that keep the currently existent system of slavery in place.
+- [Moral Culpability](https://doctrine.thefreemavens.org/raw/fr/natural-law/moral-culpability.md): The Objective Assignment of Responsibility for Harm, from Thought to Action
+- [Responsibility vs. Abdication](https://doctrine.thefreemavens.org/raw/fr/natural-law/responsibility-vs-abdication.md): The ability to respond.
+- [Self Loathing vs. Self Respect](https://doctrine.thefreemavens.org/raw/fr/natural-law/self-loathing-vs-self-respect.md): People who don't want to take responsibility and become adult human beings are in the psychological condition of Self Loathing What this means is, they hate themselves; nobody that wants to perpetuate slavery can possibly love themselves.
+- [The Lost Word](https://doctrine.thefreemavens.org/raw/fr/natural-law/the-lost-word.md): The lost word is a concept in esoteric Freemasonry which represents a state of consciousness that has been largely "lost" to the majority of people.
+- [Teaching Natural Law to Others](https://doctrine.thefreemavens.org/raw/fr/natural-law/teaching-natural-law.md): Teaching Natural Law to others is the Great Work.
+- [Shift Happens](https://doctrine.thefreemavens.org/raw/fr/natural-law/shift-happens.md)
+- [The Great Work](https://doctrine.thefreemavens.org/raw/fr/natural-law/the-great-work.md): The Great Work can only be performed after one has already realized the truth regarding Natural Law, and brought oneself (one's own actions) into alignment with it.
+- [At the Crossroads](https://doctrine.thefreemavens.org/raw/fr/natural-law/at-the-crossroads.md): The conditioning of our thoughts is what has kept us in this prison, and only now are some people beginning to see the actual depth of it.
+- [Conclusion](https://doctrine.thefreemavens.org/raw/fr/natural-law/conclusion.md): Each individual has to make that decision for themselves, and that will eventually be expressed in the aggregate.
+- [Attributions](https://doctrine.thefreemavens.org/raw/fr/natural-law/attributions.md): This guide would have not come into existence if it wasn't for the paramount work created by the following people
+- [Glossary](https://doctrine.thefreemavens.org/raw/fr/reference/glossary.md): Key terms and working definitions.
+- [Resources](https://doctrine.thefreemavens.org/raw/fr/reference/resources.md): A curated list of resources related to Natural Law
+- [Introduction](https://doctrine.thefreemavens.org/raw/fr/contribute/introduction.md): Get started with contributing to the Open Doctrine repository.
+- [Installation](https://doctrine.thefreemavens.org/raw/fr/contribute/installation.md): Get started with contributing to the Open Doctrine Repository.

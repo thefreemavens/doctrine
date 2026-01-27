@@ -1,0 +1,1 @@
+import{d as s,o as a,e as n,q as o,a5 as r}from"./w1hxH6Fm.js";const c=s({__name:"Pictures",props:{orientation:{}},setup(e){return(t,i)=>(a(),n("div",{class:r(["flex items-center justify-between",e.orientation==="vertical"?"flex-col space-y-4":"flex-row   space-x-4"])},[o(t.$slots,"default")],2))}}),f=Object.assign(c,{__name:"Pictures"});export{f as default};
