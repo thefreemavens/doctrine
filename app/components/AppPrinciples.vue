@@ -1,25 +1,60 @@
 <template>
-  <div class="flex h-24 border border-default/40 dark:border-default items-center justify-between gap-8 mx-auto px-8 py-0 bg-neutral-50/50 dark:bg-neutral-700/50 rounded-3xl shadow-lg/10">
-    <div
+  <div
+    class="
+      w-full sm:w-[80cqw]
+      flex
+      items-center
+      justify-between
+      mx-auto
+      h-18 md:h-24
+      px-[5cqw]
+      my-12
+      rounded-2xl md:rounded-3xl
+      shadow-md/10
+      border
+      border-default/40
+      dark:border-default
+      bg-neutral-50/50
+      dark:bg-neutral-700/50
+    "
+  >
+    <UTooltip
       v-for="principle in principles"
       :key="principle.id"
-      class="flex size-10 cursor-pointer bg-neutral-500/10 hover:bg-neutral-50 dark:bg-neutral-500/20 dark:hover:bg-neutral-900/10 justify-center items-center rounded-xl text-default/60 hover:text-primary transition-all duration-2000 hover:duration-200"
+      :delay-duration="0"
+      :text="principle.title"
+      :content="{
+        align: 'center',
+        side: 'bottom',
+        sideOffset: 18,
+      }"
     >
-      <UTooltip
-        :delay-duration="0"
-        :text="principle.title"
-        :content="{
-          align: 'center',
-          side: 'bottom',
-          sideOffset: 18,
-        }"
+      <div
+        class="
+        flex
+        size-8 sm:size-9 md:size-10
+        p-1.5 sm:p-2
+        cursor-pointer
+        justify-center
+        items-center
+        rounded-lg md:rounded-xl
+        transition-all
+        --duration-2000
+        text-default
+        hover:text-primary
+        bg-neutral-200/30
+        dark:bg-neutral-500/30
+        dark:hover:bg-neutral-900/10
+        hover:bg-neutral-200/50
+        hover:duration-200
+      "
       >
         <UIcon
           :name="'i-local-picon-' + principle.slug"
-          class="size-6 px-4"
+          class="size-4 sm:size-5 md:size-6"
         />
-      </UTooltip>
-    </div>
+      </div>
+    </UTooltip>
   </div>
 </template>
 

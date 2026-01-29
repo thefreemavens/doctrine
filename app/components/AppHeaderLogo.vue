@@ -5,7 +5,7 @@ const localePath = useLocalePath()
 
 <template>
   <NuxtLink
-    :to="localePath('')"
+    :to="localePath('/')"
     aria-label="The Freemavens | Home"
     class="flex justify-center items-center drop-shadow-md/20 dark:drop-shadow-none"
   >

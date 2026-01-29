@@ -27,7 +27,7 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
   color: neutral
   icon: simple-icons-github
   size: xl
-  to: https://github.com/nuxt-content/docus
+  to: https://github.com/thefreemavens/doctrine
   variant: outline
   ---
   Star on GitHub
@@ -65,20 +65,99 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
     ::::u-page-card
     ---
     spotlight: true
-    class: col-span-2 
+    class: col-span-2 @container
     ---
     :::::app-principles
     :::::
 
     #title
-    Powered by
+    The Tools of [Sovereignty](/en/natural-law/principles-of-natural-law)
 
     #description
-    Beautiful out of the box, minimal by design but highly customizable. Docus leverages Nuxt UI to give you the best docs writing experience with zero boilerplate, just focus on your content.
-  
-  
+    These eight icons represent the immutable principles of Natural Law - the complete architecture of reality from **Mentalism** to the generative **Care**. They are not just symbols but the essential tools. Learn them, integrate them, and apply them to craft a conscious and sovereign existence.
     ::::
 
+    ::::u-page-card
+    ---
+    spotlight: true
+    class: col-span-2
+    ---
+    ::app-truth{.my-12}
+    ::
+
+    #title
+    Built on [First Principles](/en/natural-law/principles-of-natural-law)
+
+    #description
+    The blueprint is **Natural Law**. The manual is the **Open Doctrine**. Discover the immutable principles of Natural Law - the foundational knowledge for all sovereign creation.
+    ::::
+
+    ::::u-page-card
+    ---
+    spotlight: true
+    class: col-span-2 lg:col-span-1
+    target: _blank
+    to: /en/getting-started/usage
+    ---
+      :::::u-color-mode-image
+      ---
+      height: 195
+      width: 403
+      alt: Internationalization illustration
+      class: w-fit mx-auto my-8
+      dark: /landing/dark/i18n.svg
+      light: /landing/light/i18n.svg
+      ---
+      :::::
+
+    #title
+    [Internationalization]{.text-primary} support
+
+    #description
+    True de-occultation knows no borders. The Open Doctrine features built-in internationalization, enabling seamless translation and community-led localization. This ensures the immutable principles of Natural Law are accessible to sovereign seekers in every language.
+    ::::
+
+    ::::u-page-card
+    ---
+    spotlight: true
+    class: col-span-2 lg:col-span-1
+    ---
+    ::color-mode-switch
+    ::
+
+    #title
+    Navigate the [Polarity](/en/natural-law/principles-of-natural-law#polarity)
+
+    #description
+    Switch between light and dark modes. This tool embodies the Principle of Polarity - opposites are identical in nature, differing only in degree. Choose the mode that best serves your focus and clarity as you engage with the Doctrine.
+    ::::
+    
+
+    ::::u-page-card
+    ---
+    spotlight: true
+    class: col-span-2
+    ---
+      :::::u-color-mode-image
+      ---
+      height: 554
+      width: 859
+      alt: Built-in navigation and full-text search
+      class: rounded-lg
+      dark: /landing/dark/command-menu.webp
+      format: webp
+      light: /landing/light/command-menu.webp
+      loading: lazy
+      ---
+      :::::
+
+    #title
+    Access the [Knowledge Base]{.text-primary}
+
+    #description
+    This is your interface to the Open Doctrine. Search every principle instantly or follow the structured path from Natural Law Principles to True Sovereignty.
+    ::::
+    
     ::::u-page-card
     ---
     spotlight: true
@@ -117,7 +196,7 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
             ::::::::
 
             ::::::::warning{.my-0}
-            Beware the inversion: solipsism is not sovereignty
+            Beware the inversion: Solipsism is not Sovereignty
             ::::::::
 
             ::::::::caution{.my-0}
@@ -168,72 +247,6 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
     #description
     The path of Freemavenry is structured yet personal. This conceptual schema illustrates how the system adapts—from your starting principle to your community links—providing a tailored framework for your journey from knowledge to sovereignty.
     :::: -->
-
-    ::::u-page-card
-    ---
-    spotlight: true
-    class: col-span-2 lg:col-span-1
-    target: _blank
-    to: /en/getting-started/usage
-    ---
-      :::::u-color-mode-image
-      ---
-      height: 195
-      width: 403
-      alt: Internationalization illustration
-      class: w-fit mx-auto my-12 lg:my-0
-      dark: /landing/dark/i18n.svg
-      light: /landing/light/i18n.svg
-      ---
-      :::::
-
-    #title
-    [Internationalization]{.text-primary} support
-
-    #description
-    True de-occultation knows no borders. The Open Doctrine features built-in internationalization, enabling seamless translation and community-led localization. This ensures the immutable principles of Natural Law are accessible to sovereign seekers in every language.
-    ::::
-    
-    ::::u-page-card
-    ---
-    spotlight: true
-    class: col-span-2 md:col-span-1 min-h-[450px]
-    target: _blank
-    ---
-    :color-mode-switch
-
-    #title
-    Navigate the [Polarity](/en/natural-law/principles-of-natural-law#polarity)
-
-    #description
-    Switch between light and dark modes. This tool embodies the Principle of Polarity - opposites are identical in nature, differing only in degree. Choose the mode that best serves your focus and clarity as you engage with the Doctrine.
-    ::::
-
-    ::::u-page-card
-    ---
-    spotlight: true
-    class: col-span-2
-    target: _blank
-    ---
-      :::::u-color-mode-image
-      ---
-      height: 554
-      width: 859
-      alt: Built-in navigation and full-text search
-      class: rounded-lg
-      dark: /landing/dark/command-menu.webp
-      format: webp
-      light: /landing/light/command-menu.webp
-      loading: lazy
-      ---
-      :::::
-
-    #title
-    Access the [Doctrine]{.text-primary}
-
-    #description
-    This is your interface to the Open Doctrine. Search every principle instantly or follow the structured path from Natural Law Principles to True Sovereignty.
-    ::::
 
     <!-- ::::u-page-card
     ---

@@ -64,7 +64,7 @@ export default defineNuxtConfig({
     // ]
   },
 
-  // mcp: { enabled: false },
+  mcp: { enabled: false },
   
   modules: ['@nuxt/ui', '@nuxtjs/i18n', '@nuxt/scripts', '@nuxt/eslint'],
   
