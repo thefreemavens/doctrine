@@ -17,9 +17,9 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
   color: neutral
   size: xl
   to: en/getting-started/introduction
-  trailing-icon: i-lucide-arrow-right
+  icon: i-local-book-open-text
   ---
-  Get started
+  Explore Knowledge Base
   :::
 
   :::u-button
@@ -40,12 +40,18 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
   to: https://github.com/nuxt-content/docus/releases/tag/v5.0.0
   variant: outline
   ---
-  Docus v5 →
+  First Edition →
   :::
 ::
 
 ::u-page-section
   :::u-page-grid
+
+    <!-- SOL -->
+    <!-- SOL -->
+    <!-- SOL -->
+    <!-- SOL -->
+    <!-- SOL -->
     ::::u-page-card
     ---
     spotlight: true
@@ -62,6 +68,11 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
     The blueprint is **Natural Law**. The manual is the **Open Doctrine**. Discover the immutable principles of Natural Law - the foundational knowledge for all sovereign creation.
     ::::
 
+    <!-- PRINCIPLES -->
+    <!-- PRINCIPLES -->
+    <!-- PRINCIPLES -->
+    <!-- PRINCIPLES -->
+    <!-- PRINCIPLES -->
     ::::u-page-card
     ---
     spotlight: true
@@ -77,6 +88,12 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
     These eight icons represent the immutable principles of Natural Law - the complete architecture of reality from **Mentalism** to the generative **Care**. They are not just symbols but the essential tools. Learn them, integrate them, and apply them to craft a conscious and sovereign existence.
     ::::
 
+    <!-- TRUTH Frequencies -->
+    <!-- TRUTH Frequencies -->
+    <!-- TRUTH Frequencies -->
+    <!-- TRUTH Frequencies -->
+    <!-- TRUTH Frequencies -->
+
     ::::u-page-card
     ---
     spotlight: true
@@ -86,18 +103,23 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
     ::
 
     #title
-    Built on [First Principles](/en/natural-law/principles-of-natural-law)
+    Architect Your [Resonance](/en/natural-law/truth-vs-perception#truth)
 
     #description
-    The blueprint is **Natural Law**. The manual is the **Open Doctrine**. Discover the immutable principles of Natural Law - the foundational knowledge for all sovereign creation.
+    Truth emits a constant frequency. Your consciousness is the variable signal. The work of **Freemavenry** is to architect your inner state, moving its vibration from chaotic Incoherence into sustained, sovereign Mastery.
     ::::
+
+    <!-- International -->
+    <!-- International -->
+    <!-- International -->
+    <!-- International -->
+    <!-- International -->
 
     ::::u-page-card
     ---
     spotlight: true
     class: col-span-2 lg:col-span-1
-    target: _blank
-    to: /en/getting-started/usage
+    to: /en/contribute/introduction
     ---
       :::::u-color-mode-image
       ---
@@ -117,6 +139,12 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
     True de-occultation knows no borders. The Open Doctrine features built-in internationalization, enabling seamless translation and community-led localization. This ensures the immutable principles of Natural Law are accessible to sovereign seekers in every language.
     ::::
 
+    <!-- COLOR MODE -->
+    <!-- COLOR MODE -->
+    <!-- COLOR MODE -->
+    <!-- COLOR MODE -->
+    <!-- COLOR MODE -->
+
     ::::u-page-card
     ---
     spotlight: true
@@ -132,6 +160,11 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
     Switch between light and dark modes. This tool embodies the Principle of Polarity - opposites are identical in nature, differing only in degree. Choose the mode that best serves your focus and clarity as you engage with the Doctrine.
     ::::
     
+    <!-- COMMAND MENU -->
+    <!-- COMMAND MENU -->
+    <!-- COMMAND MENU -->
+    <!-- COMMAND MENU -->
+    <!-- COMMAND MENU -->
 
     ::::u-page-card
     ---
