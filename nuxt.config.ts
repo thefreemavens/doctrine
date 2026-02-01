@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  // extends: ['docus'],
+  extends: ['docus'],
 
   css: ['~/assets/css/main.css'],
 
@@ -31,7 +31,7 @@ export default defineNuxtConfig({
   },
 
   icon: {
-    // provider: 'iconify',
+    provider: 'iconify',
     customCollections: [{
       prefix: 'local',
       dir: './app/assets/icons'
@@ -86,7 +86,7 @@ export default defineNuxtConfig({
   // Docus sitemap | Source: https://docus.dev/en/concepts/configuration#site-url
   runtimeConfig: {
     public: {
-      siteUrl: 'https://discord.thefreemavens.org'
+      siteUrl: 'https://doctrine.thefreemavens.org'
     }
   },
 
@@ -100,23 +100,23 @@ export default defineNuxtConfig({
   //   }
   // }
 
-  // vite: {
-  //   build: {
-  //     rollupOptions: {
-  //       output: {
-  //         manualChunks: id => {
-  //           if (id.includes('node_modules')) {
-  //             if (id.includes('@nuxt/scripts')) {
-  //               return '@nuxt/scripts'
-  //             }
-  //             if (id.includes('docus')) {
-  //               return 'docus'
-  //             }
-  //             return null
-  //           }
-  //         }
-  //       }
-  //     }
-  //   }
-  // }
+  vite: {
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks: id => {
+            if (id.includes('node_modules')) {
+              if (id.includes('@nuxt/scripts')) {
+                return '@nuxt/scripts'
+              }
+              // if (id.includes('docus')) {
+              //   return 'docus'
+              // }
+              return null
+            }
+          }
+        }
+      }
+    }
+  }
 })

@@ -52,7 +52,7 @@ export default defineAppConfig({
   ui: {
     colors: {
       primary: 'brand',
-      secondary: 'purple',
+      secondary: 'indigo',
       neutral: 'earth'
     },
     contentSearch: {

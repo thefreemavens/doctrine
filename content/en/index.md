@@ -40,7 +40,7 @@ The complete, structured, and immutable body of Natural Law knowledge. Learn, tr
   :::u-button
   ---
   size: sm
-  to: https://github.com/nuxt-content/docus/releases/tag/v5.0.0
+  to: /en/natural-law/summary
   variant: outline
   ---
   Full Edition →

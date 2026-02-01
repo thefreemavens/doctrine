@@ -13,7 +13,7 @@ const isLight = computed({
 
 <template>
   <ClientOnly>
-    <div class="mx-auto flex h-96 justify-center items-center">
+    <div class="mx-auto flex h-96 justify-center items-center max-w-full">
       <USwitch
         v-model="isLight"
         unchecked-icon="i-lucide-moon"
@@ -22,8 +22,8 @@ const isLight = computed({
         size="xl"
         color="neutral"
         :ui="{
-          base: 'w-70 h-35 rounded-lg rotate-90 data-[state=checked]:bg-[var(--ui-color-neutral-200)]',
-          thumb: 'data-[state=checked]:translate-x-35 data-[state=checked]:rtl:-translate-x-35 rounded-lg size-34',
+          base: 'w-56 h-28 sm:w-70 sm:h-35 rounded-lg rotate-90 data-[state=checked]:bg-[var(--ui-color-neutral-200)]',
+          thumb: 'data-[state=checked]:translate-x-28 sm:data-[state=checked]:translate-x-35 data-[state=checked]:rtl:-translate-x-28 sm:data-[state=checked]:rtl:-translate-x-35 rounded-lg size-27 sm:size-34',
           icon: 'rotate-270 size-8',
         }"
         @click="isDark = !isDark"
