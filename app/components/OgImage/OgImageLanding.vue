@@ -46,19 +46,129 @@ const description = computed(() => (props.description || '').slice(0, 200))
       <div class="flex justify-center mb-12 w-36 h-36 mx-auto">
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="96"
-          height="96"
           viewBox="0 0 24 24"
-        ><rect
-          rx="5.738"
-          ry="5.738"
-          width="24"
-          height="24"
-          style="fill:#6342ff;fill-opacity:1"
-        /><path
-          fill="#fff"
-          d="M9.98 15.08h-.683V9.756l.817-.835h.818v6.646h3.36v-.485h-.684V9.723l.788-.803h.817v5.656l.964.99h2.604v-.485h-.922V9.544l-1.087-1.11h-2.614l-.818.834-.818-.834H9.848l-.819.834-.818-.834H5.699v.486h.922v6.16H5.7v.486h4.28"
-        /></svg>
+          width="138px"
+          height="138px"
+        >
+          <defs>
+            <linearGradient
+              id="a"
+              x1="-162.431"
+              y1="1937.9"
+              x2="-162.431"
+              y2="837.058"
+              gradientUnits="userSpaceOnUse"
+              gradientTransform="translate(15.474 -17.673)scale(.02139)"
+            >
+              <stop
+                offset="0"
+                stop-color="#321e9f"
+              />
+              <stop
+                offset="1"
+                stop-color="#6342ff"
+              />
+            </linearGradient>
+          </defs>
+          <rect
+            rx="5.251"
+            ry="5.251"
+            x=".25"
+            y=".25"
+            width="23.5"
+            height="23.5"
+            fill="none"
+            style="stroke:none;fill:url(#a);paint-order:stroke fill markers;fill-opacity:1;stroke-width:2;stroke-linejoin:round;display:inline;stroke-linecap:round"
+          />
+          <defs>
+            <linearGradient
+              id="b"
+              x1="-162.431"
+              y1="837.058"
+              x2="-162.431"
+              y2="1937.9"
+              gradientUnits="userSpaceOnUse"
+              gradientTransform="translate(15.474 -17.673)scale(.02139)"
+            >
+              <stop
+                offset="0"
+                stop-color="#7575e7"
+              />
+              <stop
+                offset=".298"
+                stop-color="#3c3d6f"
+              />
+              <stop
+                offset=".543"
+                stop-color="#252042"
+              />
+            </linearGradient>
+          </defs>
+          <rect
+            rx="5.251"
+            ry="5.251"
+            x=".25"
+            y=".25"
+            width="23.5"
+            height="23.5"
+            fill="none"
+            style="stroke:url(#b);fill:none;paint-order:stroke fill markers;fill-opacity:1;stroke-width:.33;display:inline;stroke-linecap:round"
+          />
+          <defs>
+            <linearGradient
+              id="d"
+              x1="470.066"
+              y1="-656.684"
+              x2="454.613"
+              y2="-1099.207"
+              gradientUnits="userSpaceOnUse"
+              gradientTransform="translate(-1.908 38.41)scale(.03008)"
+            >
+              <stop
+                offset="0"
+                stop-opacity=".949"
+              />
+              <stop
+                offset=".747"
+                stop-color="#e6e6e6"
+              />
+            </linearGradient>
+          </defs>
+          <path
+            d="M17.512 7.35c-.069.002-.12.052-.178.081L12 10.51Q9.273 8.935 6.545 7.362c-.058-.028-.123-.002-.172.032l-.976.565c-.054.038-.06.11-.056.17v1.123c.008.064.066.105.12.13l6.482 3.742c.058.028.124.003.172-.032l4.698-2.713v6.157c.01.07.084.119.151.113.046-.008.08-.042.12-.06l1.521-.88c.05-.038.059-.107.054-.166V8.057c-.006-.065-.062-.109-.116-.134l-.98-.564a.1.1 0 0 0-.051-.01M5.469 10.587a.16.16 0 0 0-.108.06c-.032.048-.016.107-.02.16v4.806c.004.065.061.109.116.134l1.554.896c.064.023.141-.014.17-.075.015-.044.004-.091.007-.137v-2.933l2.058 1.188c.06.026.125-.005.174-.039l1.382-.798c.053-.045.059-.133.018-.187-.031-.035-.078-.049-.115-.074l-5.183-2.993a.1.1 0 0 0-.053-.008"
+            fill="none"
+            style="stroke-opacity:1;stroke:none;fill:url(#d);stroke-width:1.40659;display:inline;stroke-linecap:round"
+          />
+          <defs>
+            <linearGradient
+              id="e"
+              x1="247.135"
+              y1="-843.781"
+              x2="677.511"
+              y2="-911.946"
+              gradientUnits="userSpaceOnUse"
+              gradientTransform="translate(-1.908 38.41)scale(.03008)"
+            >
+              <stop
+                offset="0"
+                stop-color="#bbb"
+              />
+              <stop
+                offset=".07"
+                stop-color="#acacac"
+              />
+              <stop
+                offset="1"
+                stop-color="#efefef"
+              />
+            </linearGradient>
+          </defs>
+          <path
+            d="m17.511 7.467-5.51 3.182-5.514-3.182-1.025.592v1.185L12 13.019l4.934-2.848v6.365l1.604-.927V8.06Zm-12.05 3.232v4.911l1.607.928V13.29l2.231 1.288 1.44-.831Z"
+            fill="none"
+            style="stroke:url(#radialGradient79);fill:url(#e);fill-opacity:1;stroke-width:7.6848;display:inline;stroke-linecap:round"
+          />
+        </svg>
       </div>
       <h1
         v-if="title"
