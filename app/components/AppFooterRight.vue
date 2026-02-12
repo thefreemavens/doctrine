@@ -40,7 +40,7 @@ const links = computed<LinkItem[]>(() => [
     <UButton
       v-for="(link, index) of links"
       :key="index"
-      size="lg"
+      size="md"
       :icon="link.icon"
       :to="link.to"
       :target="link.target"
@@ -49,5 +49,5 @@ const links = computed<LinkItem[]>(() => [
       variant="ghost"
     />
   </template>
-  <UColorModeButton size="lg" />
+  <UColorModeButton size="md" />
 </template>

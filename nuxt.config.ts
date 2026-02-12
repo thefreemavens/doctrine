@@ -109,9 +109,6 @@ export default defineNuxtConfig({
               if (id.includes('@nuxt/scripts')) {
                 return '@nuxt/scripts'
               }
-              // if (id.includes('docus')) {
-              //   return 'docus'
-              // }
               return null
             }
           }

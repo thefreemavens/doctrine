@@ -4,7 +4,6 @@ export default defineAppConfig({
   vweb: '0.1.1',
   vapp: '29.2',
   url: {
-    // discord: 'https://discord.gg/3Ccegp9YrU',
     gh_tfm: 'https://github.com/thefreemavens',
   },
   
@@ -16,7 +15,7 @@ export default defineAppConfig({
   
   socials: {
     x: 'https://x.com/thefreemavens',
-    discord: 'https://discord.gg/pThMw5mjWw',
+    discord: 'https://discord.gg/hJmUCPjtR4',
     telegram: 'https://t.me/thefreemavens'
   },
 
@@ -36,7 +35,7 @@ export default defineAppConfig({
         {
           icon: 'i-local-discord',
           label: 'Discord',
-          to: 'https://discord.gg/pThMw5mjWw',
+          to: 'https://discord.gg/hJmUCPjtR4',
           target: '_blank'
         },
         {
