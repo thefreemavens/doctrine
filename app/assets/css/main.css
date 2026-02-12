@@ -92,6 +92,7 @@
   --ui-accented: var(--ui-color-neutral-600); */
 
   --ui-bg: var(--ui-color-neutral-800);
+  /* --bg-DEFAULT: var(--ui-color-neutral-900); */
   --ui-bg-muted: var(--ui-color-neutral-950);
   --ui-bg-elevated: var(--ui-color-neutral-700);
   --ui-bg-accented: var(--ui-color-neutral-600);
@@ -106,6 +107,10 @@
   /* --ui-text-inverted: var(--ui-color-neutral-900); */
 }
 
-.my-custom-landing-page {
-  background-color: #0f172a;
+.landing {
+  background-color: var(--ui-color-neutral-100)
+}
+.dark .landing {
+  background-color: var(--ui-color-neutral-900)
+  /* background: linear-gradient(180deg,rgba(14, 13, 17, 1) 0%, rgba(21, 20, 26, 1) 31%, rgba(23, 22, 29, 1) 100%); */
 }

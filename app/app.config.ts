@@ -70,9 +70,16 @@ export default defineAppConfig({
     //   }
     // }
     // pageCard: {
-    //   slots: {
-    //     body: 'flex-0',
-    //   }
+      // slots: {
+      //   body: 'flex-0',
+      // }
+      // variants: {
+      //   variant: {
+      //     outline: {
+      //       root: 'bg-neutral-900'
+      //     }
+      //   }
+      // }
     // }
   }
 })
