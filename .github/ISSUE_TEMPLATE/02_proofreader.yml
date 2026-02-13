@@ -1,0 +1,48 @@
+name: Proofreader Clarification
+description: Suggest improved wording or structural clarity for existing content
+title: "[Clarification]: "
+labels: ["proofreading", "clarification", "triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        You have identified a passage that could be clearer. This template helps structure your suggestion.
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+      placeholder: https://doctrine.thefreemavens.org/principles/cause-effect
+    validations:
+      required: true
+  - type: textarea
+    id: original
+    attributes:
+      label: Original Text
+      description: Paste the exact sentence or paragraph you believe needs clarification.
+      placeholder: "The principle of rhythm states that everything flows in and out."
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why This is Unclear
+      description: Explain what makes this passage difficult to understand.
+      placeholder: The term "flows in and out" is vague without concrete examples.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested Revision
+      description: Provide your proposed wording.
+      placeholder: "The principle of rhythm states that all phenomena move through cycles of expansion and contraction, activity and rest."
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Alignment Check
+      options:
+        - label: I believe this revision maintains fidelity to the original meaning.
+          required: true

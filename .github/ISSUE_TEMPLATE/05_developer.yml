@@ -1,0 +1,59 @@
+name: Development Contribution
+description: Fix a bug, improve performance, or enhance functionality
+title: "[Dev]: "
+labels: ["development"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to the platform itself.
+  - type: dropdown
+    id: action
+    attributes:
+      label: Type of Contribution
+      options:
+        - Bug fix
+        - Performance improvement
+        - New feature
+        - Accessibility enhancement
+        - Documentation (code/technical)
+        - Dependency update
+    validations:
+      required: true
+  - type: input
+    id: related-issue
+    attributes:
+      label: Related Issue (Optional)
+      description: If this addresses an existing issue, paste the link or number.
+      placeholder: "#123"
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of Changes
+      description: What does this PR/contribution do?
+      placeholder: Improves search modal performance by debouncing input.
+    validations:
+      required: true
+  - type: textarea
+    id: testing
+    attributes:
+      label: Testing Performed
+      description: Describe how you tested your changes.
+      placeholder: Tested locally in Chrome and Firefox.
+  - type: input
+    id: pr-link
+    attributes:
+      label: Pull Request Link
+      description: Link to your PR or branch.
+      placeholder: https://github.com/thefreemavens/doctrine/pull/456
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Development Checklist
+      options:
+        - label: I have tested my changes locally.
+        - label: I have followed the existing code style.
+        - label: I have added or updated comments where necessary.

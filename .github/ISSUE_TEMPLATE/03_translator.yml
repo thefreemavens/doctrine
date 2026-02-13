@@ -1,0 +1,56 @@
+name: Translation Contribution
+description: Claim a language, file, or submit a completed translation
+title: "[Translation]: "
+labels: ["translation", "i18n"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help bring the Doctrine to the world. Partial translations are welcome.
+  - type: dropdown
+    id: action
+    attributes:
+      label: What are you doing?
+      options:
+        - Claim a language to work on
+        - Claim a specific file
+        - Submit a completed translation
+        - Request review of existing translation
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      description: Which language?
+      placeholder: Spanish, French, Japanese, etc.
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: File or Section (Optional)
+      description: Specific page or section you are translating.
+      placeholder: /principles/care.md
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes for Reviewers
+      description: Anything reviewers should know? Terminology choices, incomplete sections, etc.
+  - type: markdown
+    attributes:
+      value: |
+        **How to submit:** Attach your translated `.md` file here or provide a link to your fork/pull request.
+  - type: textarea
+    id: attachment
+    attributes:
+      label: Translation File or PR Link
+      placeholder: https://github.com/your-fork/doctrine/pull/123
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have preserved all Markdown formatting and frontmatter.
+          required: true

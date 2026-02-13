@@ -1,0 +1,48 @@
+name: Reader Report
+description: Report a typo, unclear phrasing, broken link, or formatting issue
+title: "[Reader]: "
+labels: ["reader-report", "triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping refine the Doctrine. This path requires no technical experience.
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+      description: Which page contains the issue?
+      placeholder: https://doctrine.thefreemavens.org/principles/care
+    validations:
+      required: true
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      options:
+        - Typo / Spelling
+        - Unclear sentence
+        - Broken link
+        - Formatting error
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What did you find? Be as specific as possible.
+      placeholder: In the third paragraph, "spirtual" should be spelled "spiritual".
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested Correction (Optional)
+      description: If you have a specific fix in mind, include it here.
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        Your report will be reviewed by a maintainer. Thank you for your contribution.

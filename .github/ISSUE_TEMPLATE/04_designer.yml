@@ -1,0 +1,56 @@
+name: Design Contribution
+description: Submit icons, diagrams, illustrations, or visual refinements
+title: "[Design]: "
+labels: ["design", "visual-asset"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to the visual language of the Doctrine.
+  - type: dropdown
+    id: asset-type
+    attributes:
+      label: Asset Type
+      options:
+        - Icon (8 principles / other)
+        - Diagram / infographic
+        - Illustration
+        - SVG refinement
+        - Layout / UI suggestion
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of Asset
+      description: What does this asset represent and where should it be used?
+      placeholder: A diagram illustrating the Generative Chain (Care → Thought → Action → Reality) for the Principles of Care page.
+    validations:
+      required: true
+  - type: textarea
+    id: file
+    attributes:
+      label: File or Preview
+      description: Attach your file (SVG preferred) or provide a link to view it.
+    validations:
+      required: true
+  - type: input
+    id: dimensions
+    attributes:
+      label: Dimensions / Format
+      description: If applicable, provide dimensions or format specifications.
+      placeholder: 64x64px, SVG, transparent background
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes for Reviewers
+      description: Style choices, source files, or anything else we should know.
+  - type: checkboxes
+    id: license
+    attributes:
+      label: Licensing
+      options:
+        - label: I confirm this is my original work and I license it under the same terms as the Doctrine.
+          required: true

@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open Doctrine Homepage
+    url: https://doctrine.thefreemavens.org
+    about: Read the Doctrine before submitting an issue.
+  - name: Contribution Guide
+    url: https://doctrine.thefreemavens.org/en/contribute/introduction
+    about: Review our full contribution guide and philosophy.
+  - name: Translation Status Board
+    url: https://doctrine.thefreemavens.org/en/contribute/translation/status
+    about: Check which languages are already in progress.
+  - name: Community Discussion (Discord)
+    url: https://discord.gg/hJmUCPjtR4
+    about: Ask questions, discuss contributions, or get help from the Collective.
