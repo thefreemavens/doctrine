@@ -45,129 +45,130 @@ const description = computed(() => (props.description || '').slice(0, 200))
     <div class="flex flex-col justify-center p-8">
       <div class="flex justify-center mb-12 w-36 h-36 mx-auto">
         <svg
+          width="138"
+          height="138"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 24 24"
-          width="138px"
-          height="138px"
         >
-          <defs>
-            <linearGradient
-              id="a"
-              x1="-162.431"
-              y1="1937.9"
-              x2="-162.431"
-              y2="837.058"
-              gradientUnits="userSpaceOnUse"
-              gradientTransform="translate(15.474 -17.673)scale(.02139)"
-            >
-              <stop
-                offset="0"
-                stop-color="#321e9f"
+          <g>
+            <g style="opacity:1">
+              <defs>
+                <linearGradient
+                  id="a"
+                  x1=".5"
+                  y1="0"
+                  x2=".5"
+                  y2="1"
+                >
+                  <stop
+                    offset="0"
+                    stop-color="#6342ff"
+                  />
+                  <stop
+                    offset="1"
+                    stop-color="#472dc1"
+                  />
+                </linearGradient>
+                <pattern
+                  id="b"
+                  patternUnits="userSpaceOnUse"
+                  x="0"
+                  y="0"
+                  width="24"
+                  height="24"
+                >
+                  <path
+                    style="fill:url(#a)"
+                    d="M0 0h24v24H0z"
+                  />
+                </pattern>
+              </defs>
+              <rect
+                rx="2"
+                ry="2"
+                width="24"
+                height="24"
+                fill="url(#b)"
               />
-              <stop
-                offset="1"
-                stop-color="#6342ff"
-              />
-            </linearGradient>
-          </defs>
-          <rect
-            rx="5.251"
-            ry="5.251"
-            x=".25"
-            y=".25"
-            width="23.5"
-            height="23.5"
-            fill="none"
-            style="stroke:none;fill:url(#a);paint-order:stroke fill markers;fill-opacity:1;stroke-width:2;stroke-linejoin:round;display:inline;stroke-linecap:round"
-          />
-          <defs>
-            <linearGradient
-              id="b"
-              x1="-162.431"
-              y1="837.058"
-              x2="-162.431"
-              y2="1937.9"
-              gradientUnits="userSpaceOnUse"
-              gradientTransform="translate(15.474 -17.673)scale(.02139)"
-            >
-              <stop
-                offset="0"
-                stop-color="#7575e7"
-              />
-              <stop
-                offset=".298"
-                stop-color="#3c3d6f"
-              />
-              <stop
-                offset=".543"
-                stop-color="#252042"
-              />
-            </linearGradient>
-          </defs>
-          <rect
-            rx="5.251"
-            ry="5.251"
-            x=".25"
-            y=".25"
-            width="23.5"
-            height="23.5"
-            fill="none"
-            style="stroke:url(#b);fill:none;paint-order:stroke fill markers;fill-opacity:1;stroke-width:.33;display:inline;stroke-linecap:round"
-          />
-          <defs>
-            <linearGradient
-              id="d"
-              x1="470.066"
-              y1="-656.684"
-              x2="454.613"
-              y2="-1099.207"
-              gradientUnits="userSpaceOnUse"
-              gradientTransform="translate(-1.908 38.41)scale(.03008)"
-            >
-              <stop
-                offset="0"
-                stop-opacity=".949"
-              />
-              <stop
-                offset=".747"
-                stop-color="#e6e6e6"
-              />
-            </linearGradient>
-          </defs>
-          <path
-            d="M17.512 7.35c-.069.002-.12.052-.178.081L12 10.51Q9.273 8.935 6.545 7.362c-.058-.028-.123-.002-.172.032l-.976.565c-.054.038-.06.11-.056.17v1.123c.008.064.066.105.12.13l6.482 3.742c.058.028.124.003.172-.032l4.698-2.713v6.157c.01.07.084.119.151.113.046-.008.08-.042.12-.06l1.521-.88c.05-.038.059-.107.054-.166V8.057c-.006-.065-.062-.109-.116-.134l-.98-.564a.1.1 0 0 0-.051-.01M5.469 10.587a.16.16 0 0 0-.108.06c-.032.048-.016.107-.02.16v4.806c.004.065.061.109.116.134l1.554.896c.064.023.141-.014.17-.075.015-.044.004-.091.007-.137v-2.933l2.058 1.188c.06.026.125-.005.174-.039l1.382-.798c.053-.045.059-.133.018-.187-.031-.035-.078-.049-.115-.074l-5.183-2.993a.1.1 0 0 0-.053-.008"
-            fill="none"
-            style="stroke-opacity:1;stroke:none;fill:url(#d);stroke-width:1.40659;display:inline;stroke-linecap:round"
-          />
-          <defs>
-            <linearGradient
-              id="e"
-              x1="247.135"
-              y1="-843.781"
-              x2="677.511"
-              y2="-911.946"
-              gradientUnits="userSpaceOnUse"
-              gradientTransform="translate(-1.908 38.41)scale(.03008)"
-            >
-              <stop
-                offset="0"
-                stop-color="#bbb"
-              />
-              <stop
-                offset=".07"
-                stop-color="#acacac"
-              />
-              <stop
-                offset="1"
-                stop-color="#efefef"
-              />
-            </linearGradient>
-          </defs>
-          <path
-            d="m17.511 7.467-5.51 3.182-5.514-3.182-1.025.592v1.185L12 13.019l4.934-2.848v6.365l1.604-.927V8.06Zm-12.05 3.232v4.911l1.607.928V13.29l2.231 1.288 1.44-.831Z"
-            fill="none"
-            style="stroke:url(#radialGradient79);fill:url(#e);fill-opacity:1;stroke-width:7.6848;display:inline;stroke-linecap:round"
-          />
+            </g>
+            <defs>
+              <linearGradient
+                id="c"
+                x1="3250.746"
+                y1="610.76"
+                x2="3205.794"
+                y2="379.499"
+                gradientUnits="userSpaceOnUse"
+                gradientTransform="translate(-83.926 -6.193)scale(.03015)"
+              >
+                <stop
+                  offset="0"
+                  stop-color="#6e6e6e"
+                />
+                <stop
+                  offset="1"
+                  stop-color="#fff"
+                />
+              </linearGradient>
+            </defs>
+            <path
+              d="M11.989 7.372c-.07.002-.12.058-.163.105l-3.297 3.378-3.803-1.644c-.098-.037-.219.044-.22.149-.002.066.034.125.05.187l2.387 6.974c.028.075.113.116.19.106h9.776c.08-.003.147-.072.162-.148l2.417-7.067c.03-.101-.06-.217-.165-.21-.066.004-.122.044-.183.066l-3.67 1.587-3.358-3.44a.17.17 0 0 0-.123-.043m2.39 4.735a1.44 1.44 0 0 0 1.072.433c.22-.005.435-.063.633-.157l.738-.319-.999 2.92H8.176l-1-2.92c.295.127.588.257.884.38.384.147.831.126 1.196-.067.157-.082.296-.195.417-.325l2.326-2.383z"
+              style="stop-opacity:1;vector-effect:none;stroke:none;baseline-shift:baseline;overflow:visible;fill:url(#c);display:inline;stop-color:#000"
+            />
+            <defs>
+              <linearGradient
+                id="d"
+                x1="2955.062"
+                y1="751.807"
+                x2="3339.766"
+                y2="461.912"
+                gradientUnits="userSpaceOnUse"
+                gradientTransform="translate(-83.926 -6.193)scale(.03015)"
+              >
+                <stop
+                  offset="0"
+                  stop-color="#cecece"
+                />
+                <stop
+                  offset=".603"
+                  stop-color="#c6c6c6"
+                />
+                <stop
+                  offset="1"
+                  stop-color="#fff"
+                />
+              </linearGradient>
+            </defs>
+            <path
+              d="M12 7.532q-.005 0-.006.002l-3.428 3.512-3.89-1.683q-.005-.002-.008.001-.005.003-.003.008l2.426 7.09.007.005H16.9a.01.01 0 0 0 .008-.006l2.425-7.089q.002-.006-.002-.008-.003-.004-.008-.001l-3.89 1.683-3.428-3.512zm0 1.908 2.494 2.556c.383.392.955.487 1.45.274h0l1.146-.496-1.153 3.37H8.061l-1.152-3.37 1.145.496q0 0 0 0t0 0 0 0 0 0h0a1.3 1.3 0 0 0 1.45-.274l.01-.01Z"
+              style="stop-opacity:1;stroke:url(#linearGradient34);baseline-shift:baseline;overflow:visible;fill:url(#d);stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;display:inline;stop-color:#000;stroke-linecap:round"
+            />
+            <defs>
+              <linearGradient
+                id="e"
+                x1="2975.936"
+                y1="532.055"
+                x2="3323.482"
+                y2="730.402"
+                gradientUnits="userSpaceOnUse"
+                gradientTransform="translate(-83.926 -6.193)scale(.03015)"
+              >
+                <stop
+                  offset="0"
+                  stop-color="#fff"
+                />
+                <stop
+                  offset="1"
+                  stop-color="#797979"
+                  stop-opacity=".796"
+                />
+              </linearGradient>
+            </defs>
+            <path
+              d="M12 7.462q-.033 0-.056.024L8.55 10.963 4.703 9.3a.08.08 0 0 0-.083.014.08.08 0 0 0-.02.082l2.425 7.089c.01.031.04.052.073.052h9.803a.08.08 0 0 0 .073-.052l2.425-7.09c.01-.03 0-.062-.02-.08a.08.08 0 0 0-.084-.015l-3.846 1.664-3.394-3.477a.08.08 0 0 0-.056-.024m0 .07.005.002 3.428 3.512 3.89-1.683q.006-.002.008.001.005.003.002.008l-2.425 7.09a.01.01 0 0 1-.008.005H7.098a.01.01 0 0 1-.007-.006l-2.426-7.09q-.002-.006.003-.008.002-.004.008-.001l3.89 1.683 3.428-3.512zm0 1.908-2.485 2.546-.01.01a1.3 1.3 0 0 1-1.45.274h-.001l-1.145-.496 1.152 3.37h7.876l1.153-3.37-1.145.496a1.29 1.29 0 0 1-1.451-.274Zm0 .1 2.444 2.504a1.36 1.36 0 0 0 1.528.29l.021-.01.98-.424-1.085 3.174H8.11L7.025 11.9l.995.431.006.003a1.37 1.37 0 0 0 1.516-.279h.002Z"
+              style="stop-opacity:1;vector-effect:none;stroke:none;baseline-shift:baseline;overflow:visible;fill:url(#e);display:inline;stop-color:#000"
+            />
+          </g>
         </svg>
       </div>
       <h1

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { kebabCase } from 'scule'
-import type { ContentNavigationItem, Collections, DocsCollectionItem } from '@nuxt/content'
+import type { ContentNavigationItem, Collections, DocsEnCollectionItem } from '@nuxt/content'
 import { findPageHeadline } from '@nuxt/content/utils'
 
 definePageMeta({
@@ -15,7 +15,7 @@ const navigation = inject<Ref<ContentNavigationItem[]>>('navigation')
 const collectionName = computed(() => isEnabled.value ? `docs_${locale.value}` : 'docs')
 
 const [{ data: page }, { data: surround }] = await Promise.all([
-  useAsyncData(kebabCase(route.path), () => queryCollection(collectionName.value as keyof Collections).path(route.path).first() as Promise<DocsCollectionItem>),
+  useAsyncData(kebabCase(route.path), () => queryCollection(collectionName.value as keyof Collections).path(route.path).first() as Promise<DocsEnCollectionItem>),
   useAsyncData(`${kebabCase(route.path)}-surround`, () => {
     return queryCollectionItemSurroundings(collectionName.value as keyof Collections, route.path, {
       fields: ['description'],
@@ -76,7 +76,7 @@ const editLink = computed(() => {
     >
       <template #links>
         <UButton
-          v-for="(link, index) in (page as DocsCollectionItem).links"
+          v-for="(link, index) in (page as DocsEnCollectionItem).links"
           :key="index"
           size="sm"
           v-bind="link"

@@ -4,14 +4,14 @@ const localePath = useLocalePath()
 </script>
 
 <template>
-  <div class="flex">
+  <div class="flex justify-center items-center">
     <NuxtLink
       :to="localePath('/')"
       aria-label="The Freemavens | Home"
       class="flex justify-center items-center"
     >
       <UIcon
-        name="i-local-tfm"
+        name="i-local-lex-icon"
         class="flex w-10 h-10"
       />
     </NuxtLink>

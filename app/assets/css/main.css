@@ -45,12 +45,35 @@
   --color-earth-400: #727083;
   --color-earth-500: #58566b;
   --color-earth-600: #3e3b53;
-  /* --color-earth-700: #2e2c40; */
   --color-earth-700: #272534;
   --color-earth-800: #17161d;
   --color-earth-900: #0e0d11;
   --color-earth-950: #070709;
+
+  /* --color-earth-50: rgba(247, 248, 250, 1);
+  --color-earth-100: rgba(237, 239, 242, 1);
+  --color-earth-150: rgba(227, 228, 230, 1);
+  --color-earth-200: rgba(213, 215, 217, 1);
+  --color-earth-250: rgba(198, 201, 204, 1);
+  --color-earth-300: rgba(182, 185, 188, 1);
+  --color-earth-350: rgba(174, 177, 180, 1);
+  --color-earth-400: rgba(166, 168, 171, 1);
+  --color-earth-450: rgba(158, 160, 163, 1);
+  --color-earth-475: rgba(149, 151, 154, 1);
+  --color-earth-500: rgba(131,132,135, 1);
+  --color-earth-525: rgba(114,115,117, 1);
+  --color-earth-550: rgba(91,93,97, 1);
+  --color-earth-600: rgba(71,73,77, 1);
+  --color-earth-650: rgba(55,56,60, 1);
+  --color-earth-700: rgba(40,41,43, 1);
+  --color-earth-750: rgba(30,31,33, 1);
+  --color-earth-800: rgba(18,19,20, 1);
+  --color-earth-850: rgba(8, 9, 10, 1);
+  --color-earth-900: rgba(6,7,8, 1);
+  --color-earth-950: rgba(4,5,5, 1); */
 }
+
+/* --color-earth-700: #2e2c40; */
 
 :root {
   /* --ui-header-height: --spacing(16); */
