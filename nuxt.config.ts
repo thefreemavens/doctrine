@@ -16,6 +16,11 @@ export default defineNuxtConfig({
       code: 'en',
       name: 'English',
       dir: 'ltr'
+    },
+    {
+      code: 'es',
+      name: 'Español',
+      dir: 'ltr'
     }
     // {
     //   code: 'fr',
